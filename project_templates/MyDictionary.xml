@@ -1710,18 +1710,13 @@
 	<p>Substantiv: Pflanze, Blatt, Kraut, Baum, Strauch, Gras, Pilz </p>
 	<p>Adjektiv: vegetarisch, pflanzlich, biologisch </p>	
 	<p>Verb, intransitiv: (selber) wachsen </p>
+	<p>Verb, transitiv: (ein-)pflanzen </p>	
 </d:entry>
 
 <d:entry id="kasi anpa" d:title="kasi anpa">
 	<d:index d:value="kasi anpa"/>
 	<h1>kasi anpa</h1>
 	<p>Gras </p>
-</d:entry>
-
-<d:entry id="kasi (e )" d:title="kasi (e )">
-	<d:index d:value="kasi (e )"/>
-	<h1>kasi (e )</h1>
-	<p>Verb, transitiv: (ein-)pflanzen </p>
 </d:entry>
 
 <d:entry id="kasi kule" d:title="kasi kule">
@@ -2057,11 +2052,6 @@
 	<p>Verb, transitiv (inoffiziell): schneiden </p>
 </d:entry>
 
-<d:entry id="kiwen (e )" d:title="kiwen (e )">
-	<d:index d:value="kiwen (e )"/>
-	<h1>kiwen (e )</h1>
-	<p>Verb, transitiv: verfestigen, verhärten, versteinern </p>
-</d:entry>
 
 <d:entry id="kiwen" d:title="kiwen">
 	<d:index d:value="kiwen"/>
@@ -2069,6 +2059,7 @@
 	<p>Substantiv: Felsbrocken, Fels, Stein, Metall, Mineral, Lehm </p>
 	<p>Adjektiv: hart, schwer, heftig, fest, solid, stabil, robust, steinhart </p>
 	<p>Adverb: hart, schwer, heftig, fest, solid, stabil, robust, steinhart </p>
+	<p>Verb, transitiv: verfestigen, verhärten, versteinern </p>
 </d:entry>
 
 
@@ -2089,9 +2080,10 @@
 	<d:index d:value="kon"/>
 	<h1>kon</h1>
 	<p>Substantiv: Luft, Atmosphäre, Wind, Odor, Geruch, Seele, Geist </p>
-	<p>Verb, intransitiv: atmen </p>
 	<p>Adjektiv: luftig, ätherisch, gasförmig, gasartig </p>
 	<p>Adverb: luftig, ätherisch, gasförmig, gasartig </p>
+	<p>Verb, intransitiv: atmen </p>
+	<p>Verb, transitiv: wegblasen </p>
 </d:entry>
 
 <d:entry id="kon en sewi" d:title="kon en sewi">
@@ -2100,11 +2092,6 @@
 	<p>Wetter </p>
 </d:entry>
 
-<d:entry id="kon (e )" d:title="kon (e )">
-	<d:index d:value="kon (e )"/>
-	<h1>kon (e )</h1>
-	<p>Verb, transitiv: wegblasen </p>
-</d:entry>
 
 <d:entry id="Konko (pi ma tomo Kinsasa)" d:title="Konko (pi ma tomo Kinsasa)">
 	<d:index d:value="Konko (pi ma tomo Kinsasa)"/>
@@ -2915,9 +2902,9 @@
 </d:entry>
 
 
-<d:entry id="mama (e )" d:title="mama (e )">
-	<d:index d:value="mama (e )"/>
-	<h1>mama (e )</h1>
+<d:entry id="mama" d:title="mama">
+	<d:index d:value="mama"/>
+	<h1>mama</h1>
 	<p>Substantiv: Eltern, Mutter, Vater </p>
 	<p>Verb, transitiv: bemuttern </p>
 	<p>Adjektiv: elterlich, mütterlich, väterlich </p>	
@@ -5288,12 +5275,6 @@
 	<p>Adjektiv: optisch, Augen- </p>	
 </d:entry>
 
-<d:entry id="olin (e )" d:title="olin (e )">
-	<d:index d:value="olin (e )"/>
-	<h1>olin (e )</h1>
-	<p>Verb, transitiv: (eine Person) lieben </p>
-</d:entry>
-
 
 <d:entry id="olin sina li ' pona, tawa mi." d:title="olin sina li ' pona, tawa mi.">
 	<d:index d:value="olin sina li ' pona, tawa mi."/>
@@ -5306,6 +5287,7 @@
 	<h1>olin</h1>
 	<p>Substantiv: Liebe </p>
 	<p>Adjektiv: Liebes- </p>
+	<p>Verb, transitiv: (eine Person) lieben </p>	
 </d:entry>
 
 <d:entry id="olin suli li ' awen." d:title="olin suli li ' awen.">
@@ -5730,13 +5712,9 @@
 	<p>Substantiv: Anfang, Beginn, Start </p>	
 	<p>Adjektiv: (er-)öffnend </p>
 	<p>Hilfsverb: beginnen, starten </p>
-</d:entry>
-
-<d:entry id="open (e )" d:title="open (e )">
-	<d:index d:value="open (e )"/>
-	<h1>open (e )</h1>
 	<p>Verb, transitiv: öffnen, andrehen, anmachen, anschalten, beginnen, anfangen </p>
 </d:entry>
+
 
 <d:entry id="open la ala li lon!" d:title="open la ala li lon!">
 	<d:index d:value="open la ala li lon!"/>
@@ -5909,6 +5887,7 @@
 	<p>Adverb: aktiv, tätig, arbeitend, berufstätig, werktätig </p>
 	<p>Substantiv: Tätigkeit, Betätigung, Arbeit, Tat, Projekt </p>
 	<p>Verb, intransitiv: handeln, arbeiten, funktionieren </p>	
+	<p>Verb, transitiv: tun, machen, bauen, erstellen </p>	
 </d:entry>
 
 <d:entry id="pali ala" d:title="pali ala">
@@ -5922,12 +5901,6 @@
 	<d:index d:value="pali e ike tawa"/>
 	<h1>pali e ike tawa</h1>
 	<p>jemandem etwas Schlechtes antun, jemand geringschätzen </p>
-</d:entry>
-
-<d:entry id="pali (e )" d:title="pali (e )">
-	<d:index d:value="pali (e )"/>
-	<h1>pali (e )</h1>
-	<p>Verb, transitiv: tun, machen, bauen, erstellen </p>
 </d:entry>
 
 <d:entry id="pali li pana e sona." d:title="pali li pana e sona.">
@@ -7411,11 +7384,6 @@
 	<p>eine Sprache verstehen </p>
 </d:entry>
 
-<d:entry id="sona (e )" d:title="sona (e )">
-	<d:index d:value="sona (e )"/>
-	<h1>sona (e )</h1>
-	<p>Verb, transitiv: wissen, können, verstehen, zu etwas fähig sein </p>
-</d:entry>
 
 <d:entry id="sona mute" d:title="sona mute">
 	<d:index d:value="sona mute"/>
@@ -7436,6 +7404,7 @@
 	<p>Hilfsverb: wissen </p>
 	<p>Adjektiv: wissend, verständnisvoll, klug, schlau, clever </p>	
 	<p>Verb, intransitiv: wissen, können, verstehen </p>
+	<p>Verb, transitiv: wissen, können, verstehen, zu etwas fähig sein </p>	
 </d:entry>
 
 <d:entry id="Sonko" d:title="Sonko">
@@ -7517,11 +7486,6 @@
 	<p>Substantiv: Größe, Format </p>
 	<p>Adverb: schwer, wichtig, erwachsen </p>
 	<p>Adjektiv: groß, schwer, wichtig, lang, erwachsen </p>
-</d:entry>
-
-<d:entry id="suli (e )" d:title="suli (e )">
-	<d:index d:value="suli (e )"/>
-	<h1>suli (e )</h1>
 	<p>Verb, transitiv: vergrößern, ausbauen, ausdehnen, verlängern </p>
 </d:entry>
 
