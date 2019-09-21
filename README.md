@@ -1,9 +1,6 @@
 ## Dictionary Development Kit :closed_book:
 
-This is a mirror of Apple's Dictionary Development Kit to give more Developers access to this package.
-It is part of the [Additional Tools for Xcode 9 (Sep 18, 2017)](https://download.developer.apple.com/Developer_Tools/Additional_Tools_for_Xcode_9/Additional_Tools_for_Xcode_9.dmg).
+This is a mirror of Apple's Dictionary Development Kit with the example edited courtesy of data from https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch so it is a German toki pona dictionary (thanks @jan-Lope!) 
 
-The Dictionary Development Kit lets you create your own custom dictionaries that users can access through the Dictionary application.
+the directory https://github.com/increpare/toki-pona-deutsches-w-rterbuch/tree/master/project_templates/objects/Toki%20Pona.dictionary/Contents file, if you copy the directory/bundle to /Library/Dictionaries, should be possible to load with apple's dictionary app via the setting smenu.
 
-## Credits
-Copyright © 1997-2017 Apple Inc. All rights reserved.
