@@ -1,6 +1,16 @@
 ![Bildschirm](https://raw.githubusercontent.com/increpare/toki-pona-deutsches-w-rterbuch/master/bildschirm.png)
 
-This is a mirror of Apple's Dictionary Development Kit with the example edited courtesy of data from https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch so it is a German toki pona dictionary (thanks @jan-Lope!) 
+Toki Pona -> Deutsch Wörterbuch für macOS.
 
-The directory/bundle https://github.com/increpare/toki-pona-deutsches-w-rterbuch/tree/master/project_templates/objects/Toki%20Pona.dictionary is the compiled library; if you copy the directory/bundle to /Library/Dictionaries, should be possible to load with apple's dictionary app via the setting smenu.
 
+Setup:
+
+1) Hol die .dictionary Datei von hier:
+
+https://github.com/increpare/toki-pona-deutsches-w-rterbuch/releases
+
+2) dekompremiere sie, und kopiere die .dictionary Datei zu /Library/Dictionaries/ (oder ~/Library/Dictionaries/)
+
+3) es soll dann möglich sein, dieses Wörterbuch durch das Einstellungsmenü der Lexicon-App auszuwählen.
+
+Viel Spaß (und danke an @jan-Lope für die Wortliste https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch )
