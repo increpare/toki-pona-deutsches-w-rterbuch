@@ -13,4 +13,4 @@ https://github.com/increpare/toki-pona-deutsches-w-rterbuch/releases
 
 3) es soll dann möglich sein, dieses Wörterbuch durch das Einstellungsmenü der Lexicon-App auszuwählen.
 
-Viel Spaß (und danke an @jan-Lope für die Wortliste https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch )
+Viel Spaß! (und danke an @jan-Lope für die Wortliste https://github.com/jan-Lope/Toki_Pona_Lektionen_Deutsch )
