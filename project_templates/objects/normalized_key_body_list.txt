@@ -1,0 +1,1472 @@
+a a a!	32	0	a a a!			
+a a a! ni li ' musi.	195	0	a a a! ni li ' musi.			
+a! akesi li wile moku e mi!	354	0	a! akesi li wile moku e mi!			
+a: a! sina lukin ala lukin e ijo nasa ni?	526	0	A: a! sina lukin ala lukin e ijo nasa ni?			
+a	715	0	a			
+akanisan	882	0	Akanisan			
+akesi li pakala moli e soweli.	1027	0	akesi li pakala moli e soweli.			
+akesi li pana e telo moli.	1208	0	akesi li pana e telo moli.			
+akesi pi telo moli	1372	0	akesi pi telo moli			
+akesi	1543	0	akesi			
+ala	1784	0	ala			
+ala li ' jaki.	1974	0	ala li ' jaki.			
+alan	2128	0	Alan			
+alasa	2276	0	alasa			
+alasa li pana e soweli, tawa mi.	2482	0	alasa li pana e soweli, tawa mi.			
+ale	2652	0	ale			
+ale li jo e tenpo.	2915	0	ale li jo e tenpo.			
+ale li pona	3072	0	ale li pona			
+ale li ' pona.	3221	0	ale li ' pona.			
+alensina	3373	0	Alensina			
+ale tu	3516	0	ale tu			
+ali	3678	0	ali			
+ali li ' pona, tawa mi.	3890	0	ali li ' pona, tawa mi.			
+ali li ' seme?	4062	0	ali li ' seme?			
+a: mi mute o tawa.	4245	0	A: mi mute o tawa.			
+a: mi tawa, tawa ma elopa.	4405	0	A: mi tawa, tawa ma Elopa.			
+anku	4571	0	Anku			
+anpa	4715	0	anpa			
+anpa lawa	4966	0	anpa lawa			
+anpa pi sinpin lawa	5124	0	anpa pi sinpin lawa			
+ante la ni li ' ike.	5270	0	ante la ni li ' ike.			
+ante la	5442	0	ante la			
+ante li kama.	5616	0	ante li kama.			
+ante	5774	0	ante			
+antola	6017	0	Antola			
+anu	6155	0	anu			
+a!	6298	0	a!			
+a! telo sijelo loje li kama tan nena kute mi!	6432	0	a! telo sijelo loje li kama tan nena kute mi!			
+awen	6621	0	awen			
+awen pona	6911	0	awen pona			
+awen pona mi li pini!	7053	0	awen pona mi li pini!			
+awisi	7214	0	Awisi			
+b: mi ken ala. mi moku kin e moku.	7366	0	B: mi ken ala. mi moku kin e moku.			
+b: mi lukin kin e ona.	7544	0	B: mi lukin kin e ona.			
+b: mi tawa kin e mi, tawa ma elopa.	7713	0	B: mi tawa kin e mi, tawa ma Elopa.			
+ekato	7889	0	Ekato			
+elena	8028	0	Elena			
+e mi	8177	0	e mi			
+en	8328	0	en			
+e ona	8497	0	e ona			
+epanja	8658	0	Epanja			
+e	8802	0	e			
+esi	8998	0	Esi			
+e sina	9139	0	e sina			
+esuka	9294	0	Esuka			
+esun	9441	0	esun			
+ijo	9664	0	ijo			
+ijo ike li lon monsi mi.	9884	0	ijo ike li lon monsi mi.			
+ijo li lon oko mi.	10053	0	ijo li lon oko mi.			
+ijo li lukin e mi.	10214	0	ijo li lukin e mi.			
+ijo lon tomo	10370	0	ijo lon tomo			
+ijo uta walo	10527	0	ijo uta walo			
+ike	10674	0	ike			
+ike!	10979	0	ike!			
+ike la sina moku e ni.	11135	0	ike la sina moku e ni.			
+ike la	11302	0	ike la			
+ike li kama.	11484	0	ike li kama.			
+ike lukin	11636	0	ike lukin			
+ilakija	11783	0	Ilakija			
+ilan	11922	0	Ilan			
+ilo	12064	0	ilo			
+ilo lape	12281	0	ilo lape			
+ilo li lon poki.	12426	0	ilo li lon poki.			
+ilo li ' pakala.	12589	0	ilo li ' pakala.			
+ilo moku	12748	0	ilo moku			
+ilo musi	12931	0	ilo musi			
+ilo nasa	13087	0	ilo nasa			
+ilo nasa wawa	13226	0	ilo nasa wawa			
+ilo ni li ' lete, tawa mi.	13388	0	ilo ni li ' lete, tawa mi.			
+ilo pi sitelen tawa	13563	0	ilo pi sitelen tawa			
+ilo pi sitelen toki	13712	0	ilo pi sitelen toki			
+ilo sona	13894	0	ilo sona			
+ilo suno	14040	0	ilo suno			
+ilo toki	14202	0	ilo toki			
+ilo unpa	14356	0	ilo unpa			
+inli	14501	0	Inli			
+'	14645	0	'			
+#	14837	0	#			
+insa	14995	0	insa			
+intonesija	15177	0	Intonesija			
+isale	15326	0	Isale			
+isilan	15463	0	Isilan			
+italija	15613	0	Italija			
+jaki	15757	0	jaki			
+jaki!	16034	0	jaki!			
+jamanija	16187	0	Jamanija			
+jan	16326	0	jan			
+jan ala li toki.	16571	0	jan ala li toki.			
+jan alasa pona li ' wawa.	16721	0	jan alasa pona li ' wawa.			
+jan ana o pana e moku, tawa mi!	16892	0	jan Ana o pana e moku, tawa mi!			
+jan eliku kulaputon	17059	0	jan Eliku Kulaputon			
+jan elu	17212	0	jan Elu			
+jan epi o a!	17351	0	jan Epi o a!			
+jan eta li ' jan unpa.	17499	0	jan Eta li ' jan unpa.			
+jan ike	17663	0	jan ike			
+jan ike li kama la o seli e lipu ni.	17821	0	jan ike li kama la o seli e lipu ni.			
+jan ike li utala e ona mute.	18009	0	jan ike li utala e ona mute.			
+jan ike ni li jo e len nasa.	18172	0	jan ike ni li jo e len nasa.			
+jan jon kalapin	18353	0	jan Jon Kalapin			
+jan kanata	18502	0	jan Kanata			
+jan keli o, sina ' pona lukin.	18645	0	jan Keli o, sina ' pona lukin.			
+jan ken o, mi olin e sina.	18815	0	jan Ken o, mi olin e sina.			
+jan ken o, pipi li lon len sina.	18976	0	jan Ken o, pipi li lon len sina.			
+jan kitopokolonpo	19157	0	jan Kitopokolonpo			
+jan kulupu	19315	0	jan kulupu			
+jan laso jelo lili li kama, tan sewi.	19469	0	jan laso jelo lili li kama, tan sewi.			
+jan laso lili	19656	0	jan laso lili			
+jan lawa	19806	0	jan lawa			
+jan lawa lete	19990	0	jan lawa lete			
+jan lawa li moku e telo jaki.	20144	0	jan lawa li moku e telo jaki.			
+jan lawa ma	20315	0	jan lawa ma			
+jan lawa pi jan utala	20493	0	jan lawa pi jan utala			
+jan lawa pi ma tomo	20652	0	jan lawa pi ma tomo			
+jan lawa pi tomo tawa kon	20809	0	jan lawa pi tomo tawa kon			
+jan lawa pi tomo tawa telo li moku.	20986	0	jan lawa pi tomo tawa telo li moku.			
+jan li alasa e soweli.	21167	0	jan li alasa e soweli.			
+jan lili en jan suli li toki.	21333	0	jan lili en jan suli li toki.			
+jan lili	21504	0	jan lili			
+jan lili li ken ala moku e telo nasa.	21694	0	jan lili li ken ala moku e telo nasa.			
+jan lili li lukin e jan suli.	21875	0	jan lili li lukin e jan suli.			
+jan lili li sona ala e ike.	22049	0	jan lili li sona ala e ike.			
+jan lili li wile e telo kili.	22212	0	jan lili li wile e telo kili.			
+jan lili pi jan keli li ' musi.	22381	0	jan lili pi jan Keli li ' musi.			
+jan lili pi jan ken en jan lisa li ' suwi.	22547	0	jan lili pi jan Ken en jan Lisa li ' suwi.			
+jan lili sina li ' suwi.	22726	0	jan lili sina li ' suwi.			
+jan lili # tu wan	22893	0	jan lili # tu wan			
+jan li lon insa tomo.	23044	0	jan li lon insa tomo.			
+jan li lukin e ijo ni.	23201	0	jan li lukin e ijo ni.			
+jan li lukin e ni.	23365	0	jan li lukin e ni.			
+jan li lukin, sama pipi.	23525	0	jan li lukin, sama pipi.			
+jan li moku.	23692	0	jan li moku.			
+jan li moli ala moli e waso?	23840	0	jan li moli ala moli e waso?			
+jan li moli e waso.	24015	0	jan li moli e waso.			
+jan li ' pona.	24180	0	jan li ' pona.			
+jan li ' pona mute.	24343	0	jan li ' pona mute.			
+jan lisa li ' pona.	24518	0	jan Lisa li ' pona.			
+jan lisa o, toki!	24670	0	jan Lisa o, toki!			
+jan lisa taso li kama.	24822	0	jan Lisa taso li kama.			
+jan li seme	24976	0	jan li seme			
+jan li ' suli mute. mani li ' suli lili.	25150	0	jan li ' suli mute. mani li ' suli lili.			
+jan li telo e ona.	25327	0	jan li telo e ona.			
+jan li toki, kepeken toki pona, lon tomo toki.	25490	0	jan li toki, kepeken toki pona, lon tomo toki.			
+jan lope li awen.	25672	0	jan Lope li awen.			
+jan # luka tu	25825	0	jan # luka tu			
+jan mawen o, sina wile ala wile moku?	25973	0	jan Mawen o, sina wile ala wile moku?			
+jan mawi li pana e seli tawa ma.	26145	0	jan Mawi li pana e seli tawa ma.			
+jan mesiko	26322	0	jan Mesiko			
+jan mewi li toki, tawa mi.	26467	0	jan Mewi li toki, tawa mi.			
+jan mose o lawa e mi mute, tawa ma pona!	26629	0	jan Mose o lawa e mi mute, tawa ma pona!			
+jan mute kin li kama!	26814	0	jan mute kin li kama!			
+jan mute li kama.	26978	0	jan mute li kama.			
+jan mute lili li kama.	27136	0	jan mute lili li kama.			
+jan nanpa tu tu	27302	0	jan nanpa tu tu			
+jan nasa	27455	0	jan nasa			
+jan nasa pi ilo moli li ken pana e ike.	27625	0	jan nasa pi ilo moli li ken pana e ike.			
+jan nasa utala	27812	0	jan nasa utala			
+jan nesan li ' musi.	27968	0	jan Nesan li ' musi.			
+jan ni li kon ike.	28124	0	jan ni li kon ike.			
+jan ni li pona.	28285	0	jan ni li pona.			
+jan ni li pona lukin.	28437	0	jan ni li pona lukin.			
+jan ni li ' sama mi.	28600	0	jan ni li ' sama mi.			
+jan olin	28767	0	jan olin			
+jan pakala	28934	0	jan pakala			
+jan pali	29093	0	jan pali			
+jan pali pi ma ali o wan e ona.!	29269	0	jan pali pi ma ali o wan e ona.!			
+jan pawe o, mi wile ala moli.	29454	0	jan Pawe o, mi wile ala moli.			
+jan pentan li pana e sona, tawa mi.	29630	0	jan Pentan li pana e sona, tawa mi.			
+jan pi ike lukin	29802	0	jan pi ike lukin			
+jan pi kama sona	29961	0	jan pi kama sona			
+jan pi ma ante	30107	0	jan pi ma ante			
+jan pi ma sama	30258	0	jan pi ma sama			
+jan pi ma tomo	30422	0	jan pi ma tomo			
+jan pi musi sijelo	30581	0	jan pi musi sijelo			
+jan pi nanpa wan li lon.	30751	0	jan pi nanpa wan li lon.			
+jan pi nasin sewi kolisu	30908	0	jan pi nasin sewi Kolisu			
+jan pi pali moku	31059	0	jan pi pali moku			
+jan pi pali unpa	31204	0	jan pi pali unpa			
+jan pi pana sona	31367	0	jan pi pana sona			
+jan pi pona lukin	31519	0	jan pi pona lukin			
+jan pi pona pilin	31674	0	jan pi pona pilin			
+jan pi pona sijelo	31823	0	jan pi pona sijelo			
+jan pi sona nanpa	31994	0	jan pi sona nanpa			
+jan pi tomo pali	32145	0	jan pi tomo pali			
+jan pi tomo sama	32301	0	jan pi tomo sama			
+jan pi wawa ala	32461	0	jan pi wawa ala			
+jan poka	32632	0	jan poka			
+jan pona	32773	0	jan pona			
+jan pona mi kin li lon ni.	32937	0	jan pona mi kin li lon ni.			
+jan pona mi li lon poka mi.	33102	0	jan pona mi li lon poka mi.			
+jan sama	33270	0	jan sama			
+jan san o tawa tomo sina!	33436	0	jan San o tawa tomo sina!			
+jan santa	33600	0	jan Santa			
+jan seme li lon? / jan seme li lon ni?	33743	0	jan seme li lon? / jan seme li lon ni?			
+jan seme li ' meli sina?	33901	0	jan seme li ' meli sina?			
+jan seme li moku?	34069	0	jan seme li moku?			
+jan seme li olin e sina?	34224	0	jan seme li olin e sina?			
+jan seme li tawa, lon poka sina?	34381	0	jan seme li tawa, lon poka sina?			
+jan seme pi kulupu ni li suli?	34544	0	jan seme pi kulupu ni li suli?			
+jan sesi o moku e kili ni!	34722	0	jan Sesi o moku e kili ni!			
+jan sewi	34889	0	jan sewi			
+jan sin li kama ala kama?	35053	0	jan sin li kama ala kama?			
+jan sin li kama.	35218	0	jan sin li kama.			
+jan sipi wanta	35377	0	jan Sipi Wanta			
+jan sona	35526	0	jan sona			
+jan sona li ' jan nasa.	35696	0	jan sona li ' jan nasa.			
+jan sona sijelo	35865	0	jan sona sijelo			
+jan suli	36024	0	jan suli			
+jan susan anu jan lisa li moku e suwi?	36189	0	jan Susan anu jan Lisa li moku e suwi?			
+jan susan li ' nasa.	36375	0	jan Susan li ' nasa.			
+jan ta o toki ala, tawa mi!	36536	0	jan Ta o toki ala, tawa mi!			
+jan tepani o, sina ' ike, tawa mi.	36703	0	jan Tepani o, sina ' ike, tawa mi.			
+jan toki	36877	0	jan toki			
+jan toni kena	37029	0	jan Toni Kena			
+jan unpa	37178	0	jan unpa			
+jan utala ali li ' nasa.	37345	0	jan utala ali li ' nasa.			
+jan utala li seli ala seli e tomo?	37514	0	jan utala li seli ala seli e tomo?			
+jan utala nasa	37692	0	jan utala nasa			
+jan utala nasa mute	37845	0	jan utala nasa mute			
+jan utala pi ma losi li ike, tawa ma ali.	38006	0	jan utala pi ma Losi li ike, tawa ma ali.			
+jan utala	38198	0	jan utala			
+jan wasintan [washington] li ' jan lawa pona pi ma mewika.	38339	0	jan Wasintan [Washington] li ' jan lawa pona pi ma Mewika.			
+jan wawa ala	38544	0	jan wawa ala			
+jan wawa	38706	0	jan wawa			
+jan wawa pi pona mute li kama.	38854	0	jan wawa pi pona mute li kama.			
+jan weka li kama.	39027	0	jan weka li kama.			
+jelo	39184	0	jelo			
+jo	39353	0	jo			
+jo ala e selo lon pini palisa	39563	0	jo ala e selo lon pini palisa			
+jo e linja mute	39718	0	jo e linja mute			
+jo e mani mute	39870	0	jo e mani mute			
+jo e pilin pona	40013	0	jo e pilin pona			
+jo e selo lon pini palisa	40184	0	jo e selo lon pini palisa			
+jo e sijelo pona	40339	0	jo e sijelo pona			
+jo ijo mute li ike e jan.	40484	0	jo ijo mute li ike e jan.			
+kala	40654	0	kala			
+kala kule mute	40846	0	kala kule mute			
+kala lete	41001	0	kala lete			
+kalalinuna	41160	0	Kalalinuna			
+kalama	41322	0	kalama			
+kalama ala li lon	41578	0	kalama ala li lon			
+kalama mu ni li ' pona, tawa mi.	41740	0	kalama mu ni li ' pona, tawa mi.			
+kalama musi en meli li ' pona, tawa mi.	41919	0	kalama musi en meli li ' pona, tawa mi.			
+kalama musi 'jingle bells' li ' pona, tawa mi.	42096	0	kalama musi 'Jingle Bells' li ' pona, tawa mi.			
+kalama musi li ' pona, tawa mi.	42274	0	kalama musi li ' pona, tawa mi.			
+kalama musi	42437	0	kalama musi			
+kalama musi pi jan enja li ' pona.	42584	0	kalama musi pi jan Enja li ' pona.			
+kalama musi pi jan heino li ' nasa.	42751	0	kalama musi pi jan Heino li ' nasa.			
+kalama pi kala ni li pakala e kala ali.	42926	0	kalama pi kala ni li pakala e kala ali.			
+kala wawa li moku e soweli kala.	43111	0	kala wawa li moku e soweli kala.			
+kama	43280	0	kama			
+kama jo	43566	0	kama jo			
+kama moli	43743	0	kama moli			
+kama olin	43897	0	kama olin			
+kama pona!	44051	0	kama pona!			
+kama sona (e )	44198	0	kama sona (e )			
+kana	44363	0	Kana			
+kanata	44499	0	Kanata			
+kanse	44636	0	Kanse			
+kasi	44791	0	kasi			
+kasi anpa	45027	0	kasi anpa			
+kasi (e )	45168	0	kasi (e )			
+kasi kule	45329	0	kasi kule			
+kasi kule li ' pona lukin.	45471	0	kasi kule li ' pona lukin.			
+kasi kule loje lili	45638	0	kasi kule loje lili			
+kasi li ' pona, tawa mi.	45797	0	kasi li ' pona, tawa mi.			
+kasi nasa	45957	0	kasi nasa			
+kasi nasa / kasi sona	46122	0	kasi nasa / kasi sona			
+kasi sona	46269	0	kasi sona			
+kasi suli	46447	0	kasi suli			
+kasi suli li kasi, tawa sewi.	46605	0	kasi suli li kasi, tawa sewi.			
+kasi wawa	46781	0	kasi wawa			
+katala	46928	0	Katala			
+katelo	47065	0	Katelo			
+katemala	47211	0	Katemala			
+kenata	47352	0	Kenata			
+ken la ilo li ' pakala.	47493	0	ken la ilo li ' pakala.			
+ken la jan lili li wile moku e telo.	47662	0	ken la jan lili li wile moku e telo.			
+ken la jan lisa li jo e ona.	47847	0	ken la jan Lisa li jo e ona.			
+ken la jan susan li kama.	48008	0	ken la jan Susan li kama.			
+ken la mi ken tawa ma elopa.	48172	0	ken la mi ken tawa ma Elopa.			
+ken la mi tawa.	48344	0	ken la mi tawa.			
+ken la ona li lape.	48497	0	ken la ona li lape.			
+ken la ona li lon tomo sona.	48658	0	ken la ona li lon tomo sona.			
+ken la )	48827	0	ken la )			
+ken la tenpo pimeja la ni li ' pona.	49015	0	ken la tenpo pimeja la ni li ' pona.			
+ken la tomo pi ona en sina pi jelo en loje li ' ike, tawa mi.	49198	0	ken la tomo pi ona en sina pi jelo en loje li ' ike, tawa mi.			
+ken	49414	0	ken			
+kepeka	49705	0	Kepeka			
+kepeken ike pi ilo nasa	49846	0	kepeken ike pi ilo nasa			
+kepeken lili pi ilo nasa	50001	0	kepeken lili pi ilo nasa			
+kepeken	50161	0	kepeken			
+kepeken utala	50391	0	kepeken utala			
+keposi	50541	0	Keposi			
+kili	50680	0	kili			
+kili lili kiwen	50866	0	kili lili kiwen			
+kili lili	51015	0	kili lili			
+kili li lon poki.	51185	0	kili li lon poki.			
+kili li ' moku li ' pona.	51350	0	kili li ' moku li ' pona.			
+kili li ' pona, tawa mi.	51518	0	kili li ' pona, tawa mi.			
+kili li tawa anpa, lon poka kasi.	51677	0	kili li tawa anpa, lon poka kasi.			
+kili loje	51859	0	kili loje			
+kili ma	52024	0	kili ma			
+kili palisa	52175	0	kili palisa			
+kilipasi	52357	0	Kilipasi			
+kili pi jan linta li ' ike.	52498	0	kili pi jan Linta li ' ike.			
+kili pi jan susan	52669	0	kili pi jan Susan			
+kili seme en kili wan li ' kili # luka?	52821	0	kili seme en kili wan li ' kili # luka?			
+kili suwi	53011	0	kili suwi			
+kili tu en kili wan li ' kili tu wan.	53164	0	kili tu en kili wan li ' kili tu wan.			
+kili tu tu en kili wan li ' kili seme?	53343	0	kili tu tu en kili wan li ' kili seme?			
+kin la	53527	0	kin la			
+kinla	53690	0	Kinla			
+kin	53844	0	kin			
+kipisi	54109	0	kipisi			
+kiwen (e )	54306	0	kiwen (e )			
+kiwen	54481	0	kiwen			
+ko jaki	54707	0	ko jaki			
+ko lete li kama	54876	0	ko lete li kama			
+kon	55022	0	kon			
+kon en sewi	55266	0	kon en sewi			
+kon (e )	55409	0	kon (e )			
+konko (pi ma tomo kinsasa)	55564	0	Konko (pi ma tomo Kinsasa)			
+konko (pi ma tomo pasawi)	55726	0	Konko (pi ma tomo Pasawi)			
+kon sewi li jo e walo	55888	0	kon sewi li jo e walo			
+kon telo walo	56051	0	kon telo walo			
+kosalika	56193	0	Kosalika			
+kosiwa	56336	0	Kosiwa			
+ko	56488	0	ko			
+ko (walo) wawa	56703	0	ko (walo) wawa			
+kule	56849	0	kule			
+kule loje laso li ' pona, tawa mi. /	57048	0	kule loje laso li ' pona, tawa mi. /			
+kule lon palisa luka	57222	0	kule lon palisa luka			
+kule seme li ' pona, tawa sina?	57373	0	kule seme li ' pona, tawa sina?			
+kulupu	57541	0	kulupu			
+kulupu mama	57780	0	kulupu mama			
+kulupu pi kalama musi pi ma inli li pona.	57925	0	kulupu pi kalama musi pi ma Inli li pona.			
+kulupu pi ma inli pi kalama musi li pona.	58106	0	kulupu pi ma Inli pi kalama musi li pona.			
+kulupu pi toki pona	58286	0	kulupu pi toki pona			
+kupa	58444	0	Kupa			
+kusala	58579	0	Kusala			
+kute	58725	0	kute			
+kuwasi	58925	0	Kuwasi			
+lanka	59063	0	Lanka			
+lape li ' pona.	59202	0	lape li ' pona.			
+lape pona!	59354	0	lape pona!			
+lape	59510	0	lape			
+la	59737	0	la			
+laso	59943	0	laso			
+laso jelo li ' pona, tawa mi.	60117	0	laso jelo li ' pona, tawa mi.			
+laso loje li ' pona, tawa mi.	60292	0	laso loje li ' pona, tawa mi.			
+laso pimeja	60462	0	laso pimeja			
+lawa e pilin	60607	0	lawa e pilin			
+lawa	60790	0	lawa			
+len	61053	0	len			
+len kule li ' pona, tawa mi.	61298	0	len kule li ' pona, tawa mi.			
+len lawa	61472	0	len lawa			
+len loje laso mi li ' pona, tawa mi.	61638	0	len loje laso mi li ' pona, tawa mi.			
+len luka	61818	0	len luka			
+len ni li kule seme?	61961	0	len ni li kule seme?			
+len ni pi loje en laso li ' pona, tawa mi.	62137	0	len ni pi loje en laso li ' pona, tawa mi.			
+len noka	62335	0	len noka			
+len pi jan lisa	62492	0	len pi jan Lisa			
+len pi jan susan li ' jaki.	62643	0	len pi jan Susan li ' jaki.			
+len pi loje en laso pi meli sina li ' pona, tawa mi.	62811	0	len pi loje en laso pi meli sina li ' pona, tawa mi.			
+len sina li ' telo ala ' telo?	63019	0	len sina li ' telo ala ' telo?			
+lesi	63184	0	Lesi			
+lete lili li lon.	63330	0	lete lili li lon.			
+lete li lon	63485	0	lete li lon			
+lete li lon.	63630	0	lete li lon.			
+lete mute li lon.	63777	0	lete mute li lon.			
+lete	63931	0	lete			
+lili	64159	0	lili			
+linja	64430	0	linja			
+linja (lawa)	64640	0	linja (lawa)			
+linja lawa	64785	0	linja lawa			
+linja lili oko	64936	0	linja lili oko			
+linja mi li ' telo.	65094	0	linja mi li ' telo.			
+linja sinpin	65257	0	linja sinpin			
+linja uta	65410	0	linja uta			
+lipija	65555	0	Lipija			
+lipu	65694	0	lipu			
+lipu ni li ' lete, tawa mi.	65922	0	lipu ni li ' lete, tawa mi.			
+lipu toki	66098	0	lipu toki			
+lisensan	66278	0	Lisensan			
+li	66422	0	li			
+loje	66654	0	loje			
+loje jelo li ' pona, tawa mi.	66820	0	loje jelo li ' pona, tawa mi.			
+loje laso li ' pona, tawa mi.	66993	0	loje laso li ' pona, tawa mi.			
+loje laso (pimeja)	67163	0	loje laso (pimeja)			
+loje walo li ' pona, tawa mi.	67326	0	loje walo li ' pona, tawa mi.			
+loje walo	67496	0	loje walo			
+lomani	67641	0	Lomani			
+lon	67792	0	lon			
+lon ona la mi ken lukin e ona.	68074	0	lon ona la mi ken lukin e ona.			
+lon ona la ni li ' pona, tawa mi.	68255	0	lon ona la ni li ' pona, tawa mi.			
+lon tenpo pi pali ala	68437	0	lon tenpo pi pali ala			
+losi	68596	0	Losi			
+lowasi	68740	0	Lowasi			
+lowenki	68886	0	Lowenki			
+lowensina	69033	0	Lowensina			
+luka	69182	0	luka			
+luka luka	69371	0	luka luka			
+luka luka luka	69517	0	luka luka luka			
+luka luka tu	69665	0	luka luka tu			
+luka luka tu tu	69816	0	luka luka tu tu			
+luka luka tu wan	69969	0	luka luka tu wan			
+luka luka wan	70124	0	luka luka wan			
+luka mi li ' jaki. mi wile telo e ona.	70274	0	luka mi li ' jaki. mi wile telo e ona.			
+luka tu	70473	0	luka tu			
+luka tu tu	70618	0	luka tu tu			
+luka tu wan	70767	0	luka tu wan			
+luka wan	70919	0	luka wan			
+lukin	71063	0	lukin			
+lukin e toki	71334	0	lukin e toki			
+lukin jo e pali	71476	0	lukin jo e pali			
+lunpan	71629	0	Lunpan			
+lupa	71769	0	lupa			
+lupa jaki	72018	0	lupa jaki			
+lupa kute	72160	0	lupa kute			
+lupa meli	72312	0	lupa meli			
+lupa monsi	72460	0	lupa monsi			
+lupa nena	72607	0	lupa nena			
+lupa ni li ' suli.	72765	0	lupa ni li ' suli.			
+lupa pi telo jelo	72926	0	lupa pi telo jelo			
+lupa (tomo)	73088	0	lupa (tomo)			
+lusepu	73243	0	Lusepu			
+luwanta	73384	0	Luwanta			
+ma	73525	0	ma			
+ma ali li ' pona, tawa mi.	73742	0	ma ali li ' pona, tawa mi.			
+ma elopa li ' pona.	73919	0	ma Elopa li ' pona.			
+ma epanja	74074	0	ma Epanja			
+ma italija li ' pona lukin.	74216	0	ma Italija li ' pona lukin.			
+ma kanata li ' pona.	74381	0	ma Kanata li ' pona.			
+ma kasi	74535	0	ma kasi			
+maketonija	74681	0	Maketonija			
+malakasi	74831	0	Malakasi			
+malasija	74980	0	Malasija			
+malawi	75126	0	Malawi			
+ma li lon anpa mi.	75262	0	ma li lon anpa mi.			
+ma li lon noka mi.	75419	0	ma li lon noka mi.			
+mali	75587	0	Mali			
+malipe	75721	0	Malipe			
+ma li pona lukin.	75861	0	ma li pona lukin.			
+mama (e )	76032	0	mama (e )			
+mama meli	76243	0	mama meli			
+mama meli o awen!	76388	0	mama meli o awen!			
+mama mije	76540	0	mama mije			
+mama mi li ' moli la mi pilin ike.	76687	0	mama mi li ' moli la mi pilin ike.			
+mama ona li kepeken kasi nasa.	76876	0	mama ona li kepeken kasi nasa.			
+mama pi mama mi	77047	0	mama pi mama mi			
+ma mi li ' pimeja.	77214	0	ma mi li ' pimeja.			
+ma mi li ' tosi.	77373	0	ma mi li ' Tosi.			
+mani	77534	0	mani			
+mani pi ma ante li ' pona, tawa mi.	77752	0	mani pi ma ante li ' pona, tawa mi.			
+ma pi jan keli	77937	0	ma pi jan Keli			
+ma seme li ' pona, tawa sina?	78084	0	ma seme li ' pona, tawa sina?			
+masija	78256	0	Masija			
+ma sina	78402	0	ma sina			
+masu	78543	0	Masu			
+ma suli amelika	78683	0	ma suli Amelika			
+ma suli amelika lete	78828	0	ma suli Amelika lete			
+ma suli amelika seli	78980	0	ma suli Amelika seli			
+ma suli antasika	79135	0	ma suli Antasika			
+ma suli apika	79283	0	ma suli Apika			
+ma suli asija	79428	0	ma suli Asija			
+ma suli elopa	79571	0	ma suli Elopa			
+ma telo	79715	0	ma telo			
+ma tomo akajela	79866	0	ma tomo Akajela			
+ma tomo alana	80044	0	ma tomo Alana			
+ma tomo alawa	80203	0	ma tomo Alawa			
+ma tomo alenta	80367	0	ma tomo Alenta			
+ma tomo alipasi	80511	0	ma tomo Alipasi			
+ma tomo anpu	80671	0	ma tomo Anpu			
+ma tomo ansetan	80833	0	ma tomo Ansetan			
+ma tomo asina	81002	0	ma tomo Asina			
+ma tomo ele	81168	0	ma tomo Ele			
+ma tomo esupo	81331	0	ma tomo Esupo			
+ma tomo iwesun	81489	0	ma tomo Iwesun			
+ma tomo kakawi	81648	0	ma tomo Kakawi			
+ma tomo kenpisi	81807	0	ma tomo Kenpisi			
+ma tomo kunte	81977	0	ma tomo Kunte			
+ma tomo lantan li ' suli.	82151	0	ma tomo Lantan li ' suli.			
+ma tomo lesinki	82315	0	ma tomo Lesinki			
+ma tomo loma	82488	0	ma tomo Loma			
+ma tomo manten	82629	0	ma tomo Manten			
+ma tomo mesiko	82787	0	ma tomo Mesiko			
+ma tomo milano	82953	0	ma tomo Milano			
+ma tomo mi li ' pelin.	83113	0	ma tomo mi li ' Pelin.			
+ma tomo minsen	83280	0	ma tomo Minsen			
+ma tomo monkela	83440	0	ma tomo Monkela			
+ma tomo napoli	83600	0	ma tomo Napoli			
+ma tomo nujoka	83764	0	ma tomo Nujoka			
+ma tomo osaka	83931	0	ma tomo Osaka			
+ma tomo paki	84088	0	ma tomo Paki			
+ma tomo pasen	84253	0	ma tomo Pasen			
+ma tomo pelin	84413	0	ma tomo Pelin			
+ma tomo peminan	84579	0	ma tomo Peminan			
+ma tomo pesin	84742	0	ma tomo Pesin			
+ma tomo pilense	84912	0	ma tomo Pilense			
+ma tomo polan	85073	0	ma tomo Polan			
+ma tomo putapesi	85233	0	ma tomo Putapesi			
+ma tomo sakata	85401	0	ma tomo Sakata			
+ma tomo sanpansiko	85567	0	ma tomo Sanpansiko			
+ma tomo sawi	85734	0	ma tomo Sawi			
+ma tomo sene	85892	0	ma tomo Sene			
+ma tomo sensan	86044	0	ma tomo Sensan			
+ma tomo sesija	86205	0	ma tomo Sesija			
+ma tomo sije	86363	0	ma tomo Sije			
+ma tomo solu	86519	0	ma tomo Solu			
+ma tomo	86686	0	ma tomo			
+ma tomo tanpele	86834	0	ma tomo Tanpele			
+ma tomo telawi	86988	0	ma tomo Telawi			
+ma tomo tokijo	87148	0	ma tomo Tokijo			
+ma tomo towano	87314	0	ma tomo Towano			
+ma tomo tuku	87471	0	ma tomo Tuku			
+ma tomo wankuwa	87630	0	ma tomo Wankuwa			
+ma tomo wenesija	87791	0	ma tomo Wenesija			
+ma tosi	87953	0	ma Tosi			
+meli en mije	88095	0	meli en mije			
+meli esun li pana e pan, tawa mi.	88251	0	meli esun li pana e pan, tawa mi.			
+meli italija	88431	0	meli Italija			
+meli kala lili li tawa e ona, lon telo.	88575	0	meli kala lili li tawa e ona, lon telo.			
+meli lili	88757	0	meli lili			
+meli li lon e jan lili ona.	88898	0	meli li lon e jan lili ona.			
+meli li lon sewi mije	89063	0	meli li lon sewi mije			
+meli li nasa e mije.	89223	0	meli li nasa e mije.			
+meli mawija	89396	0	meli Mawija			
+meli mi li namako e moku.	89539	0	meli mi li namako e moku.			
+meli mi nanpa wan li ' nasa.	89710	0	meli mi nanpa wan li ' nasa.			
+meli (olin)	89886	0	meli (olin)			
+meli olin ona li ' pona lukin.	90064	0	meli olin ona li ' pona lukin.			
+meli pi pana moku	90234	0	meli pi pana moku			
+meli sama	90383	0	meli sama			
+meli	90525	0	meli			
+meli unpa	90738	0	meli unpa			
+mesiko	90911	0	Mesiko			
+mewika	91049	0	Mewika			
+mi anpa e jan utala.	91188	0	mi anpa e jan utala.			
+mi awen sona e ni.	91348	0	mi awen sona e ni.			
+mi en meli mi li ' wan.	91505	0	mi en meli mi li ' wan.			
+mijama	91676	0	Mijama			
+mi ' jan ken. / nimi mi li ken.	91816	0	mi ' jan Ken. / nimi mi li Ken.			
+mi ' jan li ' suli.	91978	0	mi ' jan li ' suli.			
+mi ' jan pepe.	92146	0	mi ' jan Pepe.			
+mi ' jan pi toki pona.	92296	0	mi ' jan pi toki pona.			
+.	92461	0	.			mi jan Robert.
+mije epanja	92609	0	mije Epanja			
+mije lili	92752	0	mije lili			
+mije li lon sewi meli	92892	0	mije li lon sewi meli			
+mije (olin)	93048	0	mije (olin)			
+mije sama	93239	0	mije sama			
+mije	93381	0	mije			
+mije unpa	93570	0	mije unpa			
+mi jo e ilo.	93723	0	mi jo e ilo.			
+mi jo e kili.	93878	0	mi jo e kili.			
+mi jo e tomo tawa sina. mi pana e ni tawa sina.	94034	0	mi jo e tomo tawa sina. mi pana e ni tawa sina.			
+mi jo e tomo tawa tu.	94214	0	mi jo e tomo tawa tu.			
+mi kalama e kalama musi, kepeken ilo.	94376	0	mi kalama e kalama musi, kepeken ilo.			
+mi kama e pakala.	94554	0	mi kama e pakala.			
+mi kama jo e telo.	94717	0	mi kama jo e telo.			
+mi kama sona e ni.	94874	0	mi kama sona e ni.			
+mi kama, tan ma mewika.	95026	0	mi kama, tan ma Mewika.			
+mi kama, tan ma suli elopa.	95190	0	mi kama, tan ma suli Elopa.			
+mi kama, tan ma tomo pelin.	95354	0	mi kama, tan ma tomo Pelin.			
+mi kasi e kasi kule, lon poki.	95519	0	mi kasi e kasi kule, lon poki.			
+mi ken ala kute e toki sina.	95693	0	mi ken ala kute e toki sina.			
+mi ken ala lape.	95869	0	mi ken ala lape.			
+mi kepeken ilo.	96026	0	mi kepeken ilo.			
+mi kepeken poki li kepeken ilo moku.	96184	0	mi kepeken poki li kepeken ilo moku.			
+mi kepeken poki ni.	96371	0	mi kepeken poki ni.			
+mi kon e ilo suno.	96529	0	mi kon e ilo suno.			
+mi kule e len.	96690	0	mi kule e len.			
+mi kute e kalama musi.	96849	0	mi kute e kalama musi.			
+mi kute e toki sina.	97011	0	mi kute e toki sina.			
+mi lape ala.	97176	0	mi lape ala.			
+mi lape la ali li ' pona.	97327	0	mi lape la ali li ' pona.			
+mi lape. mi sona.	97497	0	mi lape. mi sona.			
+mi lawa pona e jan.	97653	0	mi lawa pona e jan.			
+mile moku e telo	97817	0	mile moku e telo			
+mi li lukin lili e ona.	97966	0	mi li lukin lili e ona.			
+mi lon ma kasi.	98123	0	mi lon ma kasi.			
+mi lon mute tomo.	98274	0	mi lon mute tomo.			
+mi lon, tan seme?	98431	0	mi lon, tan seme?			
+mi lon tenpo ni.	98588	0	mi lon tenpo ni.			
+mi lon tomo.	98742	0	mi lon tomo.			
+mi lukin ala e poki laso.	98892	0	mi lukin ala e poki laso.			
+mi lukin e ma, lon poka pi jan pona mi.	99059	0	mi lukin e ma, lon poka pi jan pona mi.			
+mi lukin e ma, lon poka sina.	99248	0	mi lukin e ma, lon poka sina.			
+mi lukin e ma. ni li ' pona, tawa mi.	99422	0	mi lukin e ma. ni li ' pona, tawa mi.			
+mi lukin e mije anu meli.	99620	0	mi lukin e mije anu meli.			
+mi lukin e ni.	99792	0	mi lukin e ni.			
+mi lukin e soweli luka.	99943	0	mi lukin e soweli luka.			
+mi lukin e waso tu wan.	100107	0	mi lukin e waso tu wan.			
+mi lukin, kepeken ilo suno.	100271	0	mi lukin, kepeken ilo suno.			
+mi lukin sewi e tomo suli.	100440	0	mi lukin sewi e tomo suli.			
+mi lukin taso e meli ni!	100612	0	mi lukin taso e meli ni!			
+mi moku e kili e telo.	100790	0	mi moku e kili e telo.			
+mi moku e kili e telo li lukin e ma e jan.	100967	0	mi moku e kili e telo li lukin e ma e jan.			
+mi moku e kili.	101172	0	mi moku e kili.			
+mi moku e moku li lukin e ma.	101329	0	mi moku e moku li lukin e ma.			
+mi moku e pan namako.	101509	0	mi moku e pan namako.			
+mi moku e telo, lon tenpo ni.	101676	0	mi moku e telo, lon tenpo ni.			
+mi ' moku.	101838	0	mi ' moku.			
+mi moku.	101995	0	mi moku.			
+mi moku, kepeken ilo moku.	102136	0	mi moku, kepeken ilo moku.			
+mi moku lili e kili lili.	102298	0	mi moku lili e kili lili.			
+mi moku lili e moku soweli.	102479	0	mi moku lili e moku soweli.			
+mi moku li pakala.	102642	0	mi moku li pakala.			
+mi moku, lon poka sina.	102806	0	mi moku, lon poka sina.			
+mi moku, lon tomo.	102967	0	mi moku, lon tomo.			
+mi moku mute. sina moku lili.	103124	0	mi moku mute. sina moku lili.			
+mi moku, tan ni: mi wile moku.	103287	0	mi moku, tan ni: mi wile moku.			
+mi musi ala.	103456	0	mi musi ala.			
+mi musi taso.	103616	0	mi musi taso.			
+mi mute li moku e telo nasa mute.	103768	0	mi mute li moku e telo nasa mute.			
+mi mute li pana e moku, tawa ona mute.	103935	0	mi mute li pana e moku, tawa ona mute.			
+mi mute lukin mute e ma.	104106	0	mi mute lukin mute e ma.			
+mi mute o moku e kala.	104286	0	mi mute o moku e kala.			
+mi mute o ' musi!	104445	0	mi mute o ' musi!			
+mi mute o tawa!	104607	0	mi mute o tawa!			
+mi mute	104762	0	mi mute			
+mi nanpa e mani mi, lon esun suli.	104903	0	mi nanpa e mani mi, lon esun suli.			
+mi olin e sina.	105088	0	mi olin e sina.			
+mi olin e sina	105237	0	mi olin e sina			
+mi olin kin e sina.	105386	0	mi olin kin e sina.			
+mi open sona e ni.	105549	0	mi open sona e ni.			
+mi pakala e pipi ike.	105711	0	mi pakala e pipi ike.			
+mi pali mute la mi pilin ike.	105876	0	mi pali mute la mi pilin ike.			
+mi pali taso.	106058	0	mi pali taso.			
+mi pana e ko jaki.	106208	0	mi pana e ko jaki.			
+mi pana e telo jelo.	106384	0	mi pana e telo jelo.			
+mi pilin e ijo.	106537	0	mi pilin e ijo.			
+mi pilin e meli ni.	106698	0	mi pilin e meli ni.			
+mi pilin e ni: ona li jo ala e mani.	106866	0	mi pilin e ni: ona li jo ala e mani.			
+mi pilin e ni: sina ike.	107041	0	mi pilin e ni: sina ike.			
+mi pilin e seli sijelo sina.	107212	0	mi pilin e seli sijelo sina.			
+mi pilin ike.	107388	0	mi pilin ike.			
+mi pilin lete.	107552	0	mi pilin lete.			
+mi pilin lete mute.	107699	0	mi pilin lete mute.			
+mi pilin pona.	107854	0	mi pilin pona.			
+mi pini sona e ni.	108012	0	mi pini sona e ni.			
+mi ' pona ala ' pona, tawa sina?	108170	0	mi ' pona ala ' pona, tawa sina?			
+mi pona e ale mi la mi pona e mi.	108332	0	mi pona e ale mi la mi pona e mi.			
+mi pona e ijo.	108512	0	mi pona e ijo.			
+mi pona e ilo suno, kepeken ilo lili.	108665	0	mi pona e ilo suno, kepeken ilo lili.			
+mi pona e tomo, tawa jan pakala.	108860	0	mi pona e tomo, tawa jan pakala.			
+mi pona e tomo tawa, kepeken ilo ni.	109052	0	mi pona e tomo tawa, kepeken ilo ni.			
+mi pona e tomo tawa. mi kepeken ilo ni.	109236	0	mi pona e tomo tawa. mi kepeken ilo ni.			
+mi pona e tomo tawa. mi wile kepeken ilo ni.	109428	0	mi pona e tomo tawa. mi wile kepeken ilo ni.			
+mi ' pona, tan ni: mi lon.	109633	0	mi ' pona, tan ni: mi lon.			
+mi ' pona. taso meli mi li ' pakala.	109801	0	mi ' pona. taso meli mi li ' pakala.			
+mi ' pona, tawa sina anu seme?	109987	0	mi ' pona, tawa sina anu seme?			
+mi	110149	0	mi			
+mi seme e jan telo nasa?	110316	0	mi seme e jan telo nasa?			
+mi sewi.	110490	0	mi sewi.			
+mi sitelen e sitelen, lon lipu.	110635	0	mi sitelen e sitelen, lon lipu.			
+mi sona ala e nimi pi ona mute.	110805	0	mi sona ala e nimi pi ona mute.			
+mi sona e ni, lon kama.	110972	0	mi sona e ni, lon kama.			
+mi sona e ni, lon tenpo kama.	111130	0	mi sona e ni, lon tenpo kama.			
+mi sona e ni taso.	111292	0	mi sona e ni taso.			
+mi sona e tan.	111455	0	mi sona e tan.			
+mi sona kama e ni.	111610	0	mi sona kama e ni.			
+mi ' suli.	111789	0	mi ' suli.			
+mi ' suli mute. sina ' suli lili.	111946	0	mi ' suli mute. sina ' suli lili.			
+mi taso li lon.	112120	0	mi taso li lon.			
+mi tawa e kiwen, tawa sewi.	112270	0	mi tawa e kiwen, tawa sewi.			
+mi tawa e mi, tawa noka sina.	112441	0	mi tawa e mi, tawa noka sina.			
+mi tawa e mi, tawa tomo mi.	112607	0	mi tawa e mi, tawa tomo mi.			
+mi tawa!	112775	0	mi tawa!			
+mi tawa, lon poka sina.	112940	0	mi tawa, lon poka sina.			
+mi tawa supa lape.	113101	0	mi tawa supa lape.			
+mi tawa, tan sina.	113257	0	mi tawa, tan sina.			
+mi tawa, tawa sina.	113413	0	mi tawa, tawa sina.			
+mi tawa, tawa tomo mi.	113569	0	mi tawa, tawa tomo mi.			
+mi tawa, tawa tomo pi telo nasa.	113732	0	mi tawa, tawa tomo pi telo nasa.			
+mi tawa, tawa tomo toki. ona li pona, tawa mi.	113899	0	mi tawa, tawa tomo toki. ona li pona, tawa mi.			
+mi tawa weka e mi.	114088	0	mi tawa weka e mi.			
+mi telo e mi.	114243	0	mi telo e mi.			
+mi telo e mi, lon tomo telo.	114392	0	mi telo e mi, lon tomo telo.			
+mi toki, tawa sina.	114560	0	mi toki, tawa sina.			
+mi utala ike.	114717	0	mi utala ike.			
+mi wawa ala.	114875	0	mi wawa ala.			
+mi weka e ijo tu ni.	115027	0	mi weka e ijo tu ni.			
+mi ' weka.	115192	0	mi ' weka.			
+mi wile ala e ijo. mi lukin taso.	115339	0	mi wile ala e ijo. mi lukin taso.			
+mi wile ala pali.	115517	0	mi wile ala pali.			
+mi wile ala tawa musi.	115669	0	mi wile ala tawa musi.			
+mi wile ala toki, tawa sina.	115834	0	mi wile ala toki, tawa sina.			
+mi wile e ilo moku.	116007	0	mi wile e ilo moku.			
+mi wile e ni: mi lon tomo.	116166	0	mi wile e ni: mi lon tomo.			
+mi wile e sitelen ma.	116334	0	mi wile e sitelen ma.			
+mi wile e soweli lili.	116495	0	mi wile e soweli lili.			
+mi wile e suwi!	116664	0	mi wile e suwi!			
+mi wile e suwi sin!	116819	0	mi wile e suwi sin!			
+mi wile kama sona e toki inli.	116985	0	mi wile kama sona e toki Inli.			
+mi wile kin tawa, tawa tomo mi.	117158	0	mi wile kin tawa, tawa tomo mi.			
+mi wile, lon tomo.	117329	0	mi wile, lon tomo.			
+mi wile lon tomo.	117488	0	mi wile lon tomo.			
+mi wile lukin e ma ante.	117657	0	mi wile lukin e ma ante.			
+mi wile lukin e ma e suno.	117831	0	mi wile lukin e ma e suno.			
+mi wile lukin e ma.	118004	0	mi wile lukin e ma.			
+mi wile lukin e tomo mi. taso mi lon ma ante.	118174	0	mi wile lukin e tomo mi. taso mi lon ma ante.			
+mi wile moku e kili loje.	118380	0	mi wile moku e kili loje.			
+mi wile moku e waso.	118555	0	mi wile moku e waso.			
+mi wile moku. taso mi jo ala e moku.	118718	0	mi wile moku. taso mi jo ala e moku.			
+mi wile pakala e sina.	118896	0	mi wile pakala e sina.			
+mi wile pana e ko jaki.	119058	0	mi wile pana e ko jaki.			
+mi wile pana e telo jelo.	119218	0	mi wile pana e telo jelo.			
+mi wile sin e telo pi lape ala.	119382	0	mi wile sin e telo pi lape ala.			
+mi wile tawa. taso mi ken ala.	119548	0	mi wile tawa. taso mi ken ala.			
+mi wile tawa, tawa ma suli oselija.	119727	0	mi wile tawa, tawa ma suli Oselija.			
+mi wile tawa, tawa ma tosi.	119910	0	mi wile tawa, tawa ma Tosi.			
+mi wile tawa tomo ona, kepeken tomo tawa mi.	120086	0	mi wile tawa tomo ona, kepeken tomo tawa mi.			
+mi wile toki meli.	120283	0	mi wile toki meli.			
+mi wile unpa e sina	120458	0	mi wile unpa e sina			
+moku e telo nasa	120623	0	moku e telo nasa			
+moku e telo	120781	0	moku e telo			
+moku lili	120924	0	moku lili			
+moku lili pi pilin pona mute	121108	0	moku lili pi pilin pona mute			
+moku li lon insa mi.	121294	0	moku li lon insa mi.			
+moku li ' pona.	121456	0	moku li ' pona.			
+moku li pona, tawa ona.	121610	0	moku li pona, tawa ona.			
+moku pona!	121771	0	moku pona!			
+moku	121928	0	moku			
+moku suwi	122160	0	moku suwi			
+moku telo	122340	0	moku telo			
+moku walo	122498	0	moku walo			
+moli	122653	0	moli			
+moli li ' ike, tawa jan ali.	122877	0	moli li ' ike, tawa jan ali.			
+monsi	123057	0	monsi			
+monsuta	123238	0	monsuta			
+monsuta waso pi pan linja li pali e ali.	123441	0	monsuta waso pi pan linja li pali e ali.			
+motowa	123630	0	Motowa			
+mulitanija	123770	0	Mulitanija			
+mu!	123916	0	mu!			
+mu! mu! mu!	124107	0	mu! mu! mu!			
+mun	124249	0	mun			
+mu ni li ' ike a!	124417	0	mu ni li ' ike a!			
+mun li pimeja (ale)	124583	0	mun li pimeja (ale)			
+mun li pimeja e suno	124734	0	mun li pimeja e suno			
+mun li sike (ale)	124888	0	mun li sike (ale)			
+musi	125039	0	musi			
+musi pona!	125326	0	musi pona!			
+mute	125476	0	mute			
+mute wan	125763	0	mute wan			
+mu	125925	0	mu			
+namako	126157	0	namako			
+namipija	126375	0	Namipija			
+nanpa	126515	0	nanpa			
+nasa	126748	0	nasa			
+nasa lukin	127017	0	nasa lukin			
+nasa pona!	127167	0	nasa pona!			
+naselija	127309	0	Naselija			
+nasin ale	127449	0	nasin ale			
+nasin ante li ' pona, tawa jan ante.	127597	0	nasin ante li ' pona, tawa jan ante.			
+nasin li jo e telo kiwen.	127766	0	nasin li jo e telo kiwen.			
+nasin mani li ' ike.	127940	0	nasin mani li ' ike.			
+nasin pi anpa suno	128103	0	nasin pi anpa suno			
+nasin pi kama suno	128251	0	nasin pi kama suno			
+nasin pi toki pona	128398	0	nasin pi toki pona			
+nasin pona juju	128555	0	nasin pona Juju			
+nasin pona lasapali	128707	0	nasin pona Lasapali			
+nasin pona latapali	128860	0	nasin pona Latapali			
+nasin pona li ' mute.	129014	0	nasin pona li ' mute.			
+nasin pona	129184	0	nasin pona			
+nasin sewi jawatu	129336	0	nasin sewi Jawatu			
+nasin sewi kolisu	129489	0	nasin sewi Kolisu			
+nasin sewi ma	129640	0	nasin sewi ma			
+nasin sewi patapali	129810	0	nasin sewi Patapali			
+nasin sewi puta	129960	0	nasin sewi Puta			
+nasin sewi	130108	0	nasin sewi			
+nasin sewi silami	130252	0	nasin sewi Silami			
+nasin	130397	0	nasin			
+nasin tawa pi jan nuton	130618	0	nasin tawa pi jan Nuton			
+nena kon	130780	0	nena kon			
+nena kute	130918	0	nena kute			
+nena (lawa)	131058	0	nena (lawa)			
+nena lili pi nena mama	131202	0	nena lili pi nena mama			
+nena lili (unpa) meli	131355	0	nena lili (unpa) meli			
+nena mama, nena meli	131513	0	nena mama, nena meli			
+nena meli	131664	0	nena meli			
+nena sike meli	131809	0	nena sike meli			
+nena	131959	0	nena			
+nena suli li pana e ko seli	132176	0	nena suli li pana e ko seli			
+netelan	132335	0	Netelan			
+nijon	132489	0	Nijon			
+ni li ' ike, tawa mi	132633	0	ni li ' ike, tawa mi			
+ni li ' jan ala ' jan?	132810	0	ni li ' jan ala ' jan?			
+ni li jan lili ona nanpa tu.	132970	0	ni li jan lili ona nanpa tu.			
+ni li ' jan seme?	133135	0	ni li ' jan seme?			
+ni li ' kili ala ' kili?	133288	0	ni li ' kili ala ' kili?			
+ni li ' kule seme?	133449	0	ni li ' kule seme?			
+ni li lon kama.	133617	0	ni li lon kama.			
+ni li ' mije monsuta.	133778	0	ni li ' mije monsuta.			
+ni li moku pi tenpo pini.	133947	0	ni li moku pi tenpo pini.			
+ni li ' # mute mute tu.	134108	0	ni li ' # mute mute tu.			
+ni li pimeja ala pimeja e suno?	134269	0	ni li pimeja ala pimeja e suno?			
+ni li pona.	134435	0	ni li pona.			
+ni li ' pona, tawa mi.	134581	0	ni li ' pona, tawa mi.			
+ni li pona tawa mi.	134754	0	ni li pona tawa mi.			
+ni li ' seli lili, tawa mi.	134905	0	ni li ' seli lili, tawa mi.			
+ni li ' soweli anu seme?	135076	0	ni li ' soweli anu seme?			
+ni li suwi ala suwi?	135245	0	ni li suwi ala suwi?			
+ni li tawa jan pona mi.	135401	0	ni li tawa jan pona mi.			
+ni li tomo. mi pana e ni tawa sina.	135567	0	ni li tomo. mi pana e ni tawa sina.			
+ni li tomo pi jan seme?	135742	0	ni li tomo pi jan seme?			
+ni li ' tomo pi telo nasa ala ' tomo pi telo nasa?	135900	0	ni li ' tomo pi telo nasa ala ' tomo pi telo nasa?			
+ni li ' wan anu seme?	136068	0	ni li ' wan anu seme?			
+nimi pi mi mute	136225	0	nimi pi mi mute			
+nimi	136374	0	nimi			
+nise	136546	0	Nise			
+ni	136681	0	ni			
+noka	136878	0	noka			
+nosiki	137065	0	Nosiki			
+nusilan	137210	0	Nusilan			
+o awen!	137352	0	o awen!			
+o esun ala e ilo moli!	137491	0	o esun ala e ilo moli!			
+o!	137652	0	o!			
+o,	137828	0	o,			
+o kalama ala!	137980	0	o kalama ala!			
+oko mi li lukin pona	138127	0	oko mi li lukin pona			
+oko sina li pona lukin	138288	0	oko sina li pona lukin			
+oko	138454	0	oko			
+olin (e )	138614	0	olin (e )			
+olin sina li ' pona, tawa mi.	138778	0	olin sina li ' pona, tawa mi.			
+olin	138944	0	olin			
+olin suli li ' awen.	139100	0	olin suli li ' awen.			
+o lukin e ni!	139262	0	o lukin e ni!			
+o lukin e pipi loje ni.	139411	0	o lukin e pipi loje ni.			
+o moli e pipi, kepeken palisa.	139577	0	o moli e pipi, kepeken palisa.			
+ona anu jan ante li ' ike?	139752	0	ona anu jan ante li ' ike?			
+ona li anpa e moli.	139930	0	ona li anpa e moli.			
+(ona) li ike	140085	0	(ona) li ike			
+ona li ' jan pi pona lukin ala ' jan pi pona lukin?	140253	0	ona li ' jan pi pona lukin ala ' jan pi pona lukin?			
+ona li ' jan pona pi kalama musi.	140430	0	ona li ' jan pona pi kalama musi.			
+ona li jo e seme?	140601	0	ona li jo e seme?			
+ona li kama, tawa ma mi.	140751	0	ona li kama, tawa ma mi.			
+ona li kama, tawa tomo mi.	140913	0	ona li kama, tawa tomo mi.			
+ona li kasi ala kasi?	141077	0	ona li kasi ala kasi?			
+ona li kule ala kule e len?	141233	0	ona li kule ala kule e len?			
+ona li kule e tomo tawa.	141400	0	ona li kule e tomo tawa.			
+ona li lawa e jan, tawa ma pona.	141561	0	ona li lawa e jan, tawa ma pona.			
+ona li ' linja anu seme?	141743	0	ona li ' linja anu seme?			
+ona li ' loje anu seme?	141904	0	ona li ' loje anu seme?			
+ona li ' lon ala.	142059	0	ona li ' lon ala.			
+ona li lon ala lon tomo?	142217	0	ona li lon ala lon tomo?			
+ona li ' lon pi nasin sewi.	142374	0	ona li ' lon pi nasin sewi.			
+ona li lon sewi mi.	142540	0	ona li lon sewi mi.			
+ona li lon tenpo ni li lon tomo ni.	142706	0	ona li lon tenpo ni li lon tomo ni.			
+ona li lukin, sama pipi.	142881	0	ona li lukin, sama pipi.			
+ona li mama ala mama e sina?	143049	0	ona li mama ala mama e sina?			
+ona li ' mama ala ' mama ?	143210	0	ona li ' mama ala ' mama ?			
+ona li ' mama anu seme?	143371	0	ona li ' mama anu seme?			
+ona li moku e kili.	143540	0	ona li moku e kili.			
+ona li ' moku.	143699	0	ona li ' moku.			
+ona li moku, lon tenpo ni li moku, lon tenpo kama.	143850	0	ona li moku, lon tenpo ni li moku, lon tenpo kama.			
+ona li namako ala namako?	144030	0	ona li namako ala namako?			
+ona li nanpa e jan.	144192	0	ona li nanpa e jan.			
+ona li pali e ni, kepeken nasin seme?	144355	0	ona li pali e ni, kepeken nasin seme?			
+ona li pali, lon tomo pali li moku, lon tomo moku.	144527	0	ona li pali, lon tomo pali li moku, lon tomo moku.			
+ona li pan ala pan?	144718	0	ona li pan ala pan?			
+ona li pan e pan.	144870	0	ona li pan e pan.			
+ona li pona e ilo, lon tomo ona.	145031	0	ona li pona e ilo, lon tomo ona.			
+ona li pona e ilo.	145211	0	ona li pona e ilo.			
+(ona) li pona	145370	0	(ona) li pona			
+ona li pona ike mute e ilo.	145533	0	ona li pona ike mute e ilo.			
+ona li ' pona li ' lili.	145706	0	ona li ' pona li ' lili.			
+ona li ' pona li unpa.	145865	0	ona li ' pona li unpa.			
+ona li selo ala selo?	146025	0	ona li selo ala selo?			
+ona li seme?	146181	0	ona li seme?			
+ona li sike ala sike?	146332	0	ona li sike ala sike?			
+ona li sitelen ala sitelen?	146488	0	ona li sitelen ala sitelen?			
+ona li tawa ala, tawa telo.	146642	0	ona li tawa ala, tawa telo.			
+ona li tawa, tawa sewi kiwen.	146804	0	ona li tawa, tawa sewi kiwen.			
+ona li telo e ona.	146973	0	ona li telo e ona.			
+ona li toki sitelen e ni.	147129	0	ona li toki sitelen e ni.			
+ona li wile e ni: jan li pakala ala e ma e telo e kon.	147292	0	ona li wile e ni: jan li pakala ala e ma e telo e kon.			
+ona li wile jo e ilo.	147498	0	ona li wile jo e ilo.			
+ona li wile moku e telo.	147660	0	ona li wile moku e telo.			
+ona li wile mute e ni.	147815	0	ona li wile mute e ni.			
+ona li wile pakala e ilo.	147975	0	ona li wile pakala e ilo.			
+ona mute li nasa e jan suli.	148148	0	ona mute li nasa e jan suli.			
+ona mute li tawa, tawa utala.	148312	0	ona mute li tawa, tawa utala.			
+ona mute li utala toki.	148478	0	ona mute li utala toki.			
+ona mute	148631	0	ona mute			
+ona	148790	0	ona			
+ontula	148973	0	Ontula			
+o olin e jan poka.	149115	0	o olin e jan poka.			
+o open e lupa.	149278	0	o open e lupa.			
+o pali!	149434	0	o pali!			
+o pana e namako, tawa mi.	149576	0	o pana e namako, tawa mi.			
+o pana e pona tawa ma.	149744	0	o pana e pona tawa ma.			
+o pana e sike, tawa mi.	149905	0	o pana e sike, tawa mi.			
+o pana e sitelen ma, tawa mi.	150064	0	o pana e sitelen ma, tawa mi.			
+o pana e suwi, tawa mi!	150229	0	o pana e suwi, tawa mi!			
+open	150392	0	open			
+open (e )	150592	0	open (e )			
+open la ala li lon!	150777	0	open la ala li lon!			
+open la	150936	0	open la			
+o pilin e nena.	151101	0	o pilin e nena.			
+o pilin e uta mi, kepeken uta sina.	151256	0	o pilin e uta mi, kepeken uta sina.			
+o ' pona!	151421	0	o ' pona!			
+o pu!	151566	0	o pu!			
+osalasi	151734	0	Osalasi			
+oselija	151881	0	Oselija			
+o !	152025	0	o !			
+o sona e sina!	152196	0	o sona e sina!			
+o tawa!	152348	0	o tawa!			
+o tawa musi, lon poka mi!	152487	0	o tawa musi, lon poka mi!			
+o tawa, tawa ma tomo, lon poka jan pona sina!	152645	0	o tawa, tawa ma tomo, lon poka jan pona sina!			
+o tawa weka ala e sina!	152830	0	o tawa weka ala e sina!			
+o tu e palisa ni.	152990	0	o tu e palisa ni.			
+o tu.	153147	0	o tu.			
+o wan!	153292	0	o wan!			
+o weka e jan lili, tan ni.	153438	0	o weka e jan lili, tan ni.			
+o weka e len sina.	153605	0	o weka e len sina.			
+pakala!	153757	0	pakala!			
+pakala moli li kama, tawa sina.	153909	0	pakala moli li kama, tawa sina.			
+pakala	154088	0	pakala			
+pakisan	154370	0	Pakisan			
+palakawi	154510	0	Palakawi			
+palani	154653	0	Palani			
+palata	154794	0	Palata			
+pali	154934	0	pali			
+pali ala	155188	0	pali ala			
+pali e ike tawa	155340	0	pali e ike tawa			
+pali (e )	155518	0	pali (e )			
+pali li pana e sona.	155686	0	pali li pana e sona.			
+pali pona li lawa, tawa lon.	155842	0	pali pona li lawa, tawa lon.			
+palisa	156012	0	palisa			
+palisa lili noka	156235	0	palisa lili noka			
+palisa luka	156379	0	palisa luka			
+palisa mije li lawa e mije.	156523	0	palisa mije li lawa e mije.			
+palisa mije	156689	0	palisa mije			
+palisa tawa	156831	0	palisa tawa			
+palisa uta	156975	0	palisa uta			
+pana e ko jaki	157117	0	pana e ko jaki			
+pana e moku tawa	157297	0	pana e moku tawa			
+pana e palisa lon lupa	157458	0	pana e palisa lon lupa			
+pana e pilin pona tawa	157608	0	pana e pilin pona tawa			
+pana e sona	157780	0	pana e sona			
+pana e telo jelo	157940	0	pana e telo jelo			
+pana e telo oko	158100	0	pana e telo oko			
+pana e telo (walo) mije	158259	0	pana e telo (walo) mije			
+pana e uta lon lupa (meli)	158413	0	pana e uta lon lupa (meli)			
+panama	158571	0	Panama			
+pana	158707	0	pana			
+panla	158959	0	Panla			
+pan ni li ' ike.	159108	0	pan ni li ' ike.			
+pan	159268	0	pan			
+papeto	159464	0	Papeto			
+papuwanijukini	159605	0	Papuwanijukini			
+pasila	159757	0	Pasila			
+pawama	159899	0	Pawama			
+pelalusi	160039	0	Pelalusi			
+pelu	160198	0	Pelu			
+pemuta	160334	0	Pemuta			
+penesuwela	160475	0	Penesuwela			
+penin	160619	0	Penin			
+pesije	160757	0	Pesije			
+pilin ala	160898	0	pilin ala			
+pilin e ike jan	161073	0	pilin e ike jan			
+pilin e moli jan	161226	0	pilin e moli jan			
+pilin e weka jan	161379	0	pilin e weka jan			
+pilin ike tan	161532	0	pilin ike tan			
+pilin ike tawa	161707	0	pilin ike tawa			
+pilin ike	161892	0	pilin ike			
+pilin ike wawa	162071	0	pilin ike wawa			
+pilin nasa	162256	0	pilin nasa			
+pilin pona	162432	0	pilin pona			
+pilin pona li pana e sijelo pona.	162602	0	pilin pona li pana e sijelo pona.			
+pilin pona mute	162768	0	pilin pona mute			
+pilin pona tan	162951	0	pilin pona tan			
+pilin	163102	0	pilin			
+pilin wawa	163358	0	pilin wawa			
+pilin wawa (unpa)	163535	0	pilin wawa (unpa)			
+pilipina	163686	0	Pilipina			
+pilisin	163834	0	Pilisin			
+pimeja laso	163980	0	pimeja laso			
+pimeja	164136	0	pimeja			
+pini li ' pona la ale li ' pona.	164351	0	pini li ' pona la ale li ' pona.			
+pini palisa	164516	0	pini palisa			
+pini pi nena mama	164664	0	pini pi nena mama			
+pini	164815	0	pini			
+pipi li ' ike, tawa mi.	165094	0	pipi li ' ike, tawa mi.			
+pipi li lon ala lon poka mi?	165252	0	pipi li lon ala lon poka mi?			
+pipi li lon anpa mi.	165423	0	pipi li lon anpa mi.			
+pipi li moku ala moku e kili?	165594	0	pipi li moku ala moku e kili?			
+pipi li moku e kasi.	165767	0	pipi li moku e kasi.			
+pipi li moku e mi.	165933	0	pipi li moku e mi.			
+pipi li mu e kalama.	166096	0	pipi li mu e kalama.			
+pipi li mu, tawa ona.	166266	0	pipi li mu, tawa ona.			
+pipi pi ma mama mi li ' lili.	166440	0	pipi pi ma mama mi li ' lili.			
+pipi seme li pakala e sina?	166621	0	pipi seme li pakala e sina?			
+pipi	166791	0	pipi			
+pi	166982	0	pi			
+pisi	167224	0	Pisi			
+piten	167360	0	Piten			
+poka	167509	0	poka			
+poka mi li ' pakala.	167697	0	poka mi li ' pakala.			
+poka pi luka sitelen ala	167863	0	poka pi luka sitelen ala			
+poka pi luka sitelen	168022	0	poka pi luka sitelen			
+pokasi	168179	0	Pokasi			
+poka sina la mi tawa.	168326	0	poka sina la mi tawa.			
+poka telo	168486	0	poka telo			
+poki kon	168632	0	poki kon			
+poki lete	168773	0	poki lete			
+poki ni li lon jaki.	168938	0	poki ni li lon jaki.			
+poki seli	169100	0	poki seli			
+poki	169250	0	poki			
+poki telo	169476	0	poki telo			
+pona	169643	0	pona			
+pona e pilin jan	169900	0	pona e pilin jan			
+pona!	170072	0	pona!			
+pona la sina jo e mani.	170244	0	pona la sina jo e mani.			
+pona la	170413	0	pona la			
+pona li kama ala kama?	170580	0	pona li kama ala kama?			
+pona li kama.	170737	0	pona li kama.			
+pona lukin	170891	0	pona lukin			
+pona moku	171068	0	pona moku			
+pona unpa	171238	0	pona unpa			
+posan	171390	0	Posan			
+posuka	171545	0	Posuka			
+potuke	171690	0	Potuke			
+pu	171839	0	pu			
+sama la sina en mi li utala ala.	172092	0	sama la sina en mi li utala ala.			
+sama la	172270	0	sama la			
+sama li ' ike.	172442	0	sama li ' ike.			
+samalino	172598	0	Samalino			
+sama ona la sina ken ante e ni.	172740	0	sama ona la sina ken ante e ni.			
+sama pi ni en ona la mi wile jo e ni tu.	172918	0	sama pi ni en ona la mi wile jo e ni tu.			
+sama	173104	0	sama			
+sameka	173360	0	Sameka			
+samowa	173507	0	Samowa			
+sasali	173643	0	Sasali			
+sawa	173783	0	Sawa			
+sawasi	173926	0	Sawasi			
+seki	174065	0	Seki			
+seli lili li lon.	174217	0	seli lili li lon.			
+seli li lon.	174369	0	seli li lon.			
+seli li lon	174521	0	seli li lon			
+seli li lon la mi pana e telo, tan selo mi.	174674	0	seli li lon la mi pana e telo, tan selo mi.			
+seli mute li lon.	174854	0	seli mute li lon.			
+seli	175013	0	seli			
+seli suno li seli e tomo mi.	175238	0	seli suno li seli e tomo mi.			
+selo lon pini palisa	175413	0	selo lon pini palisa			
+selo mi li wile e ni: mi pilin e ona.	175575	0	selo mi li wile e ni: mi pilin e ona.			
+selo	175742	0	selo			
+seme	175965	0	seme			
+seme la sina pali e ni?	176135	0	seme la sina pali e ni?			
+seme la telo kama, tan sewi?	176310	0	seme la telo kama, tan sewi?			
+seme li lon poka mi?	176484	0	seme li lon poka mi?			
+seme li lon tomo mi?	176642	0	seme li lon tomo mi?			
+seme li moku e kili mi?	176803	0	seme li moku e kili mi?			
+seme li ' pona, tawa sina?	176972	0	seme li ' pona, tawa sina?			
+seme li utala e sina?	177131	0	seme li utala e sina?			
+seme?	177294	0	seme?			
+seneka	177435	0	Seneka			
+!	177573	0	!			
+.	177819	0	.			
+?	178036	0	?			
+:	178249	0	:			
+,	178500	0	,			
+setapika	178759	0	Setapika			
+sewi	178905	0	sewi			
+sewi li ' laso.	179182	0	sewi li ' laso.			
+sewi monsi	179336	0	sewi monsi			
+sewi pi sinpin lawa	179488	0	sewi pi sinpin lawa			
+sijelo	179634	0	sijelo			
+sike mama waso	179871	0	sike mama waso			
+sike mije	180017	0	sike mije			
+sike mije (tu)	180158	0	sike mije (tu)			
+sike	180304	0	sike			
+sike tu	180543	0	sike tu			
+sile	180683	0	Sile			
+sina en mi li ' jan pona.	180818	0	sina en mi li ' jan pona.			
+sina jo e kili anu telo nasa?	180982	0	sina jo e kili anu telo nasa?			
+sina kama e ni: mi wile moku.	181154	0	sina kama e ni: mi wile moku.			
+sina kama jo e jan pona, lon ni.	181333	0	sina kama jo e jan pona, lon ni.			
+sina kama, tan ma seme?	181501	0	sina kama, tan ma seme?			
+sina kama, tan seme?	181666	0	sina kama, tan seme?			
+sina ken ala ken kama?	181821	0	sina ken ala ken kama?			
+sina ken ala ken lape?	181978	0	sina ken ala ken lape?			
+sina kepeken ala kepeken ilo?	182136	0	sina kepeken ala kepeken ilo?			
+sina kepeken ala kepeken ni?	182303	0	sina kepeken ala kepeken ni?			
+sina kepeken seme?	182468	0	sina kepeken seme?			
+sina lon ala lon ma tomo pelin?	182622	0	sina lon ala lon ma tomo Pelin?			
+sina lon ma tomo seme?	182787	0	sina lon ma tomo seme?			
+sina lon seme?	182949	0	sina lon seme?			
+sina lukin ala lukin e kiwen?	183098	0	sina lukin ala lukin e kiwen?			
+sina lukin ala lukin e sitelen tawa x files?	183261	0	sina lukin ala lukin e sitelen tawa X-Files?			
+sina lukin e jan seme?	183440	0	sina lukin e jan seme?			
+sina lukin e pipi.	183599	0	sina lukin e pipi.			
+sina lukin e seme?	183766	0	sina lukin e seme?			
+sina lukin sewi e suno.	183925	0	sina lukin sewi e suno.			
+sina moku e telo nasa la sina ' nasa.	184087	0	sina moku e telo nasa la sina ' nasa.			
+sina ' moli la sina ken ala toki.	184267	0	sina ' moli la sina ken ala toki.			
+sina o telo e sina!	184450	0	sina o telo e sina!			
+sina pakala e ilo, kepeken nasin seme?	184601	0	sina pakala e ilo, kepeken nasin seme?			
+sina pakala e seme?	184782	0	sina pakala e seme?			
+sina pali e ni, kepeken nasin seme?	184947	0	sina pali e ni, kepeken nasin seme?			
+sina pali e ni, kepeken seme?	185117	0	sina pali e ni, kepeken seme?			
+sina pana ala pana e moku tawa jan lili?	185296	0	sina pana ala pana e moku tawa jan lili?			
+sina pana e ike la sina kama jo e ike.	185477	0	sina pana e ike la sina kama jo e ike.			
+sina	185662	0	sina			
+sina pilin e seme?	185837	0	sina pilin e seme?			
+sina pilin pona anu seme?	185990	0	sina pilin pona anu seme?			
+sina pilin seme?	186149	0	sina pilin seme?			
+sina pona ala pona?	186318	0	sina pona ala pona?			
+sina pona ala pona e ilo?	186470	0	sina pona ala pona e ilo?			
+sina pona ala pona e sina? sina pona e sina anu seme?	186635	0	sina pona ala pona e sina? sina pona e sina anu seme?			
+sina ' pona ala ' pona?	186808	0	sina ' pona ala ' pona?			
+sina ' pona anu seme?	186965	0	sina ' pona anu seme?			
+sina ' pona.	187130	0	sina ' pona.			
+sina pona.	187279	0	sina pona.			
+sina pona pilin la ...	187426	0	sina pona pilin la ...			
+sina sewi ala sewi?	187592	0	sina sewi ala sewi?			
+sina sona ala sona e toki mi?	187745	0	sina sona ala sona e toki mi?			
+sina sona e toki ni la sina sona e toki pona!	187915	0	sina sona e toki ni la sina sona e toki pona!			
+sina ' suli a!	188085	0	sina ' suli a!			
+sina ' suli.	188242	0	sina ' suli.			
+sina suno mi.	188396	0	sina suno mi.			
+sina tawa ala tawa, tan mi?	188550	0	sina tawa ala tawa, tan mi?			
+sina tawa, lon poka pi jan seme?	188714	0	sina tawa, lon poka pi jan seme?			
+sina tawa ma tomo, tan seme?	188883	0	sina tawa ma tomo, tan seme?			
+sina tawa, tan mi.	189053	0	sina tawa, tan mi.			
+sina telo e sina.	189212	0	sina telo e sina.			
+sina toki e ni, tawa mi: sina moku.	189369	0	sina toki e ni, tawa mi: sina moku.			
+sina toki mu e ni.	189543	0	sina toki mu e ni.			
+sina toki, tawa jan seme?	189704	0	sina toki, tawa jan seme?			
+sina toki, tawa mi anu ona?	189865	0	sina toki, tawa mi anu ona?			
+sina wile ala wile moku?	190035	0	sina wile ala wile moku?			
+sina wile ala wile pali? wile ala.	190198	0	sina wile ala wile pali? wile ala.			
+sina wile e moku anu telo?	190364	0	sina wile e moku anu telo?			
+sina wile jo e ilo moli la sina wile moli e jan.	190535	0	sina wile jo e ilo moli la sina wile moli e jan.			
+sina wile kama anu seme?	190731	0	sina wile kama anu seme?			
+sina wile kama, tawa tomo toki.	190900	0	sina wile kama, tawa tomo toki.			
+sina wile kepeken ilo.	191075	0	sina wile kepeken ilo.			
+sina wile pali e seme?	191245	0	sina wile pali e seme?			
+sina wile tawa, tawa ma seme?	191407	0	sina wile tawa, tawa ma seme?			
+sina wile tawa, tawa telo suli.	191578	0	sina wile tawa, tawa telo suli.			
+sina wile toki e tan, tawa mi.	191745	0	sina wile toki e tan, tawa mi.			
+sina wile toki, tawa mije anu meli?	191917	0	sina wile toki, tawa mije anu meli?			
+sinita	192114	0	Sinita			
+sinpin (lawa)	192261	0	sinpin (lawa)			
+sinpin mi la tomo li lon.	192406	0	sinpin mi la tomo li lon.			
+sinpin	192573	0	sinpin			
+sin	192812	0	sin			
+sipusi	193054	0	Sipusi			
+sitelen e toki	193194	0	sitelen e toki			
+sitelen lape	193339	0	sitelen lape			
+sitelen ma	193480	0	sitelen ma			
+sitelen	193624	0	sitelen			
+sitelen tawa 'bowling for columbine' li pona kin.	193876	0	sitelen tawa 'Bowling for Columbine' li pona kin.			
+sitelen tawa 'fahrenheit 9/11' li pona, tawa mi.	194058	0	sitelen tawa 'Fahrenheit 9/11' li pona, tawa mi.			
+sitelen tawa	194234	0	sitelen tawa			
+sitelen toki	194390	0	sitelen toki			
+sitelen unpa	194534	0	sitelen unpa			
+sona e toki	194685	0	sona e toki			
+sona (e )	194837	0	sona (e )			
+sona mute	195023	0	sona mute			
+sona pona e toki	195181	0	sona pona e toki			
+sona	195335	0	sona			
+sonko	195596	0	Sonko			
+sopisi	195740	0	Sopisi			
+soweli li kama ala kama moli?	195884	0	soweli li kama ala kama moli?			
+soweli li kama moli.	196045	0	soweli li kama moli.			
+soweli lili li ' ike, tawa mi.	196200	0	soweli lili li ' ike, tawa mi.			
+soweli li toki e mu.	196372	0	soweli li toki e mu.			
+soweli mi li kama moli.	196533	0	soweli mi li kama moli.			
+soweli ni li ' pona moku.	196691	0	soweli ni li ' pona moku.			
+soweli pi poki sinpin	196859	0	soweli pi poki sinpin			
+soweli	197010	0	soweli			
+soweli waso	197221	0	soweli waso			
+sukosi	197367	0	Sukosi			
+suli	197507	0	suli			
+suli (e )	197712	0	suli (e )			
+sulija	197898	0	Sulija			
+sumi	198036	0	Sumi			
+suno li ' jelo.	198180	0	suno li ' jelo.			
+suno li lon	198333	0	suno li lon			
+suno li lon poka pimeja.	198480	0	suno li lon poka pimeja.			
+suno li lon sewi.	198649	0	suno li lon sewi.			
+suno li lon sewi mi.	198806	0	suno li lon sewi mi.			
+suno li ' suli ala ' suli?	198967	0	suno li ' suli ala ' suli?			
+suno li ' suli.	199133	0	suno li ' suli.			
+suno li suno.	199291	0	suno li suno.			
+suno pona!	199442	0	suno pona!			
+suno	199588	0	suno			
+supa lape	199794	0	supa lape			
+supa lawa	199934	0	supa lawa			
+supa moku	200076	0	supa moku			
+supa monsi	200224	0	supa monsi			
+supa pali	200380	0	supa pali			
+supa	200541	0	supa			
+sutan	200784	0	Sutan			
+suwasi	200920	0	Suwasi			
+suwi lukin	201059	0	suwi lukin			
+suwi	201225	0	suwi			
+tan ni la mi sona e nasin.	201440	0	tan ni la mi sona e nasin.			
+tan	201622	0	tan			
+tansi	201885	0	Tansi			
+taso	202034	0	taso			
+taso ni la mi pilin pona.	202219	0	taso ni la mi pilin pona.			
+taso tenpo pimeja pini la mi kama nasa.	202399	0	taso tenpo pimeja pini la mi kama nasa.			
+tawa mi la li ' pona, tawa mi.	202581	0	tawa mi la li ' pona, tawa mi.			
+tawa mi la mi pilin pona.	202757	0	tawa mi la mi pilin pona.			
+tawa musi	202933	0	tawa musi			
+tawa pona!	203073	0	tawa pona!			
+tawa	203245	0	tawa			
+tawi	203532	0	Tawi			
+telo e mi	203672	0	telo e mi			
+telo jaki lon nena sinpin	203813	0	telo jaki lon nena sinpin			
+telo jelo	203964	0	telo jelo			
+telo kili	204128	0	telo kili			
+telo kili ni li ' suwi.	204285	0	telo kili ni li ' suwi.			
+telo kiwen	204451	0	telo kiwen			
+telo kiwen lili li kama	204609	0	telo kiwen lili li kama			
+telo li kama	204760	0	telo li kama			
+telo lili li lon kon	204904	0	telo lili li lon kon			
+telo li ' pona.	205062	0	telo li ' pona.			
+telo li pona.	205221	0	telo li pona.			
+telo li ' suli.	205370	0	telo li ' suli.			
+telo loje	205526	0	telo loje			
+telo (loje) mun	205667	0	telo (loje) mun			
+telo mama soweli	205818	0	telo mama soweli			
+telo nasa	205971	0	telo nasa			
+telo nasa pi wawa ala	206129	0	telo nasa pi wawa ala			
+telo nasa wawa	206299	0	telo nasa wawa			
+telo ni li ' lete, tawa mi.	206471	0	telo ni li ' lete, tawa mi.			
+telo ona	206632	0	telo ona			
+telo pi lape ala	206774	0	telo pi lape ala			
+telo seli	206919	0	telo seli			
+telo seli jelo	207084	0	telo seli jelo			
+telo seli pimeja pi lape ala	207235	0	telo seli pimeja pi lape ala			
+telo seli wawa	207389	0	telo seli wawa			
+telo sijelo loje	207532	0	telo sijelo loje			
+telo	207701	0	telo			
+telo suli li ' ike, tawa mi.	207956	0	telo suli li ' ike, tawa mi.			
+telo suli li ' laso.	208123	0	telo suli li ' laso.			
+telo suli li lon monsi mi.	208281	0	telo suli li lon monsi mi.			
+telo (walo) mije	208446	0	telo (walo) mije			
+telo walo mije	208593	0	telo walo mije			
+telo wawa	208742	0	telo wawa			
+tenpo ala	208904	0	tenpo ala			
+tenpo ali	209045	0	tenpo ali			
+tenpo ali la o kama sona!	209193	0	tenpo ali la o kama sona!			
+tenpo kama la mi lape.	209349	0	tenpo kama la mi lape.			
+tenpo kama la ona li wile lon kin.	209507	0	tenpo kama la ona li wile lon kin.			
+tenpo kama lili	209694	0	tenpo kama lili			
+tenpo kama	209846	0	tenpo kama			
+tenpo lete	209990	0	tenpo lete			
+tenpo lili	210132	0	tenpo lili			
+tenpo li pona e sijelo ike ale.	210291	0	tenpo li pona e sijelo ike ale.			
+tenpo li tawa la sona li kama.	210459	0	tenpo li tawa la sona li kama.			
+tenpo moku	210624	0	tenpo moku			
+tenpo mute	210770	0	tenpo mute			
+tenpo ni en tenpo kama la ona li moku.	210917	0	tenpo ni en tenpo kama la ona li moku.			
+tenpo ni	211094	0	tenpo ni			
+tenpo ni la mi lon.	211241	0	tenpo ni la mi lon.			
+tenpo ni la mi moku e telo.	211397	0	tenpo ni la mi moku e telo.			
+tenpo ni la ona li lon tomo ni.	211577	0	tenpo ni la ona li lon tomo ni.			
+tenpo ni la tenpo kama la ona li moku.	211746	0	tenpo ni la tenpo kama la ona li moku.			
+tenpo ni la tomo ni la ona li lon.	211923	0	tenpo ni la tomo ni la ona li lon.			
+tenpo pi kasi loje (jelo)	212097	0	tenpo pi kasi loje (jelo)			
+tenpo pimeja kama	212252	0	tenpo pimeja kama			
+tenpo pimeja mute	212405	0	tenpo pimeja mute			
+tenpo pimeja	212561	0	tenpo pimeja			
+tenpo pimeja ni	212704	0	tenpo pimeja ni			
+tenpo pimeja ni la mun li ' suli anu seme?	212851	0	tenpo pimeja ni la mun li ' suli anu seme?			
+tenpo pimeja pini la mi lukin e sitelen tawa x files.	213040	0	tenpo pimeja pini la mi lukin e sitelen tawa X-Files.			
+tenpo pimeja pini	213230	0	tenpo pimeja pini			
+tenpo pimeja sin	213381	0	tenpo pimeja sin			
+tenpo pi mute seme la sina sike e suno?	213526	0	tenpo pi mute seme la sina sike e suno?			
+tenpo pini la mi ' weka.	213694	0	tenpo pini la mi ' weka.			
+tenpo pini lili	213850	0	tenpo pini lili			
+tenpo pini	213996	0	tenpo pini			
+tenpo seli lili	214142	0	tenpo seli lili			
+tenpo seli	214292	0	tenpo seli			
+tenpo sike mun	214433	0	tenpo sike mun			
+tenpo sike mun nanpa luka luka	214576	0	tenpo sike mun nanpa luka luka			
+tenpo sike mun nanpa luka luka tu	214732	0	tenpo sike mun nanpa luka luka tu			
+tenpo sike mun nanpa luka luka wan	214889	0	tenpo sike mun nanpa luka luka wan			
+tenpo sike mun nanpa luka	215047	0	tenpo sike mun nanpa luka			
+tenpo sike mun nanpa luka tu	215198	0	tenpo sike mun nanpa luka tu			
+tenpo sike mun nanpa luka tu tu	215350	0	tenpo sike mun nanpa luka tu tu			
+tenpo sike mun nanpa luka tu wan	215507	0	tenpo sike mun nanpa luka tu wan			
+tenpo sike mun nanpa luka wan	215664	0	tenpo sike mun nanpa luka wan			
+tenpo sike mun nanpa tu	215817	0	tenpo sike mun nanpa tu			
+tenpo sike mun nanpa tu tu	215968	0	tenpo sike mun nanpa tu tu			
+tenpo sike mun nanpa tu wan	216121	0	tenpo sike mun nanpa tu wan			
+tenpo sike mun nanpa wan	216278	0	tenpo sike mun nanpa wan			
+tenpo sike suno	216428	0	tenpo sike suno			
+tenpo sin	216570	0	tenpo sin			
+tenpo	216710	0	tenpo			
+tenpo suli	216922	0	tenpo suli			
+tenpo suno kama la mi wile pali.	217076	0	tenpo suno kama la mi wile pali.			
+tenpo suno kama	217247	0	tenpo suno kama			
+tenpo suno luka tu pi pali en pali ala	217391	0	tenpo suno luka tu pi pali en pali ala			
+tenpo suno mute	217550	0	tenpo suno mute			
+tenpo suno ni	217697	0	tenpo suno ni			
+tenpo suno ni la jan lili pi kama sona li tawa ala, tawa tomo pi kama sona.	217839	0	tenpo suno ni la jan lili pi kama sona li tawa ala, tawa tomo pi kama sona.			
+tenpo suno ni la mun li pimeja ala pimeja e suno?	218046	0	tenpo suno ni la mun li pimeja ala pimeja e suno?			
+tenpo suno ni li tenpo suno pali nanpa luka.	218230	0	tenpo suno ni li tenpo suno pali nanpa luka.			
+tenpo suno pali ala nanpa tu	218398	0	tenpo suno pali ala nanpa tu			
+tenpo suno pali ala nanpa wan	218550	0	tenpo suno pali ala nanpa wan			
+tenpo suno pali nanpa luka	218710	0	tenpo suno pali nanpa luka			
+tenpo suno pali nanpa tu	218864	0	tenpo suno pali nanpa tu			
+tenpo suno pali nanpa tu tu	219014	0	tenpo suno pali nanpa tu tu			
+tenpo suno pali nanpa tu wan	219169	0	tenpo suno pali nanpa tu wan			
+tenpo suno pali nanpa wan	219323	0	tenpo suno pali nanpa wan			
+tenpo suno pini	219475	0	tenpo suno pini			
+tenpo suno sin ale la mi moku e telo seli pimeja	219619	0	tenpo suno sin ale la mi moku e telo seli pimeja			
+tenpo suno sin	219803	0	tenpo suno sin			
+tenpo suno	219950	0	tenpo suno			
+tenpo telo ala	220090	0	tenpo telo ala			
+tenpo telo	220236	0	tenpo telo			
+tenpo tu tu la mi sike e suno.	220380	0	tenpo tu tu la mi sike e suno.			
+toki alapi	220546	0	toki Alapi			
+toki apikan	220691	0	toki Apikan			
+toki awasa	220836	0	toki Awasa			
+toki epelanto	220979	0	toki Epelanto			
+toki epelanto li ' pona.	221124	0	toki Epelanto li ' pona.			
+toki ewantalu	221285	0	toki Ewantalu			
+toki!	221426	0	toki!			
+toki ike lon	221594	0	toki ike lon			
+toki ike	221762	0	toki ike			
+toki ike tawa	221926	0	toki ike tawa			
+toki inli	222097	0	toki Inli			
+toki inli li ' pona.	222241	0	toki Inli li ' pona.			
+toki inli pona	222398	0	toki Inli pona			
+toki insi	222549	0	toki Insi			
+toki intelinka	222690	0	toki Intelinka			
+toki inu	222837	0	toki Inu			
+toki ipo	222991	0	toki Ipo			
+toki ito	223130	0	toki Ito			
+toki iwisi	223268	0	toki Iwisi			
+toki jolupa	223418	0	toki Jolupa			
+toki kalike	223563	0	toki Kalike			
+toki kanse	223716	0	toki Kanse			
+toki kantun	223869	0	toki Kantun			
+toki kepeken toki ...	224016	0	toki kepeken toki ...			
+toki kisawili	224175	0	toki Kisawili			
+toki kuwenja	224326	0	toki Kuwenja			
+toki li ' pona.	224478	0	toki li ' pona.			
+toki li ' pona, tawa mi.	224635	0	toki li ' pona, tawa mi.			
+toki lolan	224804	0	toki Lolan			
+toki loma	224946	0	toki Loma			
+toki losupan	225087	0	toki Losupan			
+toki lunasimi	225231	0	toki Lunasimi			
+toki malasi	225376	0	toki Malasi			
+toki mi li ' tosi.	225519	0	toki mi li ' Tosi.			
+toki nanpa wan	225684	0	toki nanpa wan			
+toki nosiki sin	225833	0	toki Nosiki sin			
+toki olapu	225986	0	toki Olapu			
+toki pansapi	226133	0	toki Pansapi			
+toki pasiki	226279	0	toki Pasiki			
+toki pasuto	226424	0	toki Pasuto			
+toki pitaha	226566	0	toki Pitaha			
+toki pona e toki	226714	0	toki pona e toki			
+toki pona li ' pona, tawa mi.	226864	0	toki pona li ' pona, tawa mi.			
+toki pona li ' toki pona.	227024	0	toki pona li ' toki pona.			
+toki pona lon	227186	0	toki pona lon			
+toki pona	227345	0	toki pona			
+toki pona tawa	227507	0	toki pona tawa			
+toki sami	227679	0	toki Sami			
+toki sankitu	227822	0	toki Sankitu			
+toki sinan	227965	0	toki Sinan			
+toki sitelen	228111	0	toki sitelen			
+toki sitelen li ' pona, tawa jan ali.	228262	0	toki sitelen li ' pona, tawa jan ali.			
+toki sona	228463	0	toki sona			
+toki	228629	0	toki			
+toki tamasiko	228903	0	toki Tamasiko			
+toki tami	229056	0	toki Tami			
+toki tan toki pi jan pokakijo	229195	0	toki tan toki pi jan Pokakijo			
+toki teluku	229371	0	toki Teluku			
+toki utala pi pimeja soweli	229514	0	toki utala pi pimeja soweli			
+toki utala tawa	229675	0	toki utala tawa			
+toki utu	229840	0	toki Utu			
+toko	229979	0	Toko			
+tominika	230113	0	Tominika			
+tomo lape	230263	0	tomo lape			
+tomo li lon sinpin mi.	230408	0	tomo li lon sinpin mi.			
+tomo mani	230572	0	tomo mani			
+tomo moku	230720	0	tomo moku			
+tomo ni li pakala.	230900	0	tomo ni li pakala.			
+tomo pali	231067	0	tomo pali			
+tomo pi jan keli en mije ona li ' suli.	231229	0	tomo pi jan Keli en mije ona li ' suli.			
+tomo pi jan lisa	231417	0	tomo pi jan Lisa			
+tomo pi jelo en loje pi meli susan en mije jan ken li ' nasa, tawa mi.	231576	0	tomo pi jelo en loje pi meli Susan en mije jan Ken li ' nasa, tawa mi.			
+tomo pi mi mute li ' pakala.	231791	0	tomo pi mi mute li ' pakala.			
+tomo pi ona mute	231963	0	tomo pi ona mute			
+tomo pi tawa ala	232111	0	tomo pi tawa ala			
+tomo pi telo en moku.	232280	0	tomo pi telo en moku.			
+tomo pona mi	232451	0	tomo pona mi			
+tomo sona	232607	0	tomo sona			
+tomo	232768	0	tomo			
+tomo tawa akesi li tawa, lon ma li tawa, lon telo.	233008	0	tomo tawa akesi li tawa, lon ma li tawa, lon telo.			
+tomo tawa	233209	0	tomo tawa			
+tomo tawa kon	233364	0	tomo tawa kon			
+tomo tawa mun	233534	0	tomo tawa mun			
+tomo tawa telo	233687	0	tomo tawa telo			
+tomo telo	233846	0	tomo telo			
+tomo unpa	234001	0	tomo unpa			
+tona	234167	0	Tona			
+tosi	234305	0	Tosi			
+tu	234447	0	tu			
+tuki	234655	0	Tuki			
+tunisi	234803	0	Tunisi			
+tu pi ona en sina pi kalama musi li ' pona.	234941	0	tu pi ona en sina pi kalama musi li ' pona.			
+tu tu	235116	0	tu tu			
+tuwalu	235258	0	Tuwalu			
+tu wan	235395	0	tu wan			
+ukanta	235537	0	Ukanta			
+ukawina	235676	0	Ukawina			
+ulukawi	235821	0	Ulukawi			
+uman	235962	0	Uman			
+unpa	236097	0	unpa			
+unpa nasa	236338	0	unpa nasa			
+uta	236491	0	uta			
+uta e	236701	0	uta e			
+utala li ' ike.	236842	0	utala li ' ike.			
+utala li ' ike, tawa mi.	236997	0	utala li ' ike, tawa mi.			
+utala	237159	0	utala			
+utun	237402	0	Utun			
+walo pimeja li ' pona, tawa mi.	237540	0	walo pimeja li ' pona, tawa mi.			
+walo	237712	0	walo			
+walo uta	237907	0	walo uta			
+wan	238051	0	wan			
+wan sijelo	238290	0	wan sijelo			
+wanuwatu	238441	0	Wanuwatu			
+wasikano	238582	0	Wasikano			
+waso li ken ala lukin la ona li ken kin jo e kili.	238723	0	waso li ken ala lukin la ona li ken kin jo e kili.			
+waso li tawa, lon kon.	238911	0	waso li tawa, lon kon.			
+waso soweli li ' pimeja.	239078	0	waso soweli li ' pimeja.			
+waso	239244	0	waso			
+waso wawa li tawa e ona, lon kon.	239429	0	waso wawa li tawa e ona, lon kon.			
+wawa li lon insa.	239606	0	wawa li lon insa.			
+wawa	239767	0	wawa			
+weka e ike jan	240023	0	weka e ike jan			
+weka lili li ' pona, tawa lawa.	240175	0	weka lili li ' pona, tawa lawa.			
+weka sina li ' ike, tawa mi.	240364	0	weka sina li ' ike, tawa mi.			
+weka	240537	0	weka			
+wensa	240781	0	Wensa			
+wije	240926	0	Wije			
+wile e pona tawa jan	241071	0	wile e pona tawa jan			
+wile	241237	0	wile			
+wile ike	241517	0	wile ike			
+wile lape	241682	0	wile lape			
+wile lawa	241851	0	wile lawa			
+wile moku e telo	242000	0	wile moku e telo			
+wile moku	242149	0	wile moku			
+wile moli e jan	242302	0	wile moli e jan			
+wile moli	242486	0	wile moli			
+wile mute	242643	0	wile mute			
+wile mute ike	242812	0	wile mute ike			
+wile pali e ijo	242985	0	wile pali e ijo			
+wile pana e pona (tawa jan)	243145	0	wile pana e pona (tawa jan)			
+wile pi jan ike li pakala e ijo.	243331	0	wile pi jan ike li pakala e ijo.			
+wile pona	243521	0	wile pona			
+wile sona li mute e sona.	243684	0	wile sona li mute e sona.			
+wile unpa	243847	0	wile unpa			
